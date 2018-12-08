@@ -3,9 +3,9 @@ matplotlib.use('pdf')
 import matplotlib.pyplot as plt
 import numpy as np
 
-from mutate import mutate, mutate_synonym
-from objective import objective
-from evo_select import fitness_proportional_selection
+from evo_mutation import mutate, mutate_synonym
+from evo_objective import objective
+from evo_selection import fitness_proportional_selection
 
 
 def evolve(original_text: str, n: int):
@@ -23,7 +23,7 @@ def evolve(original_text: str, n: int):
     worst_fitnesses = []
     mean_fitnesses = []
 
-    while generations < 20:#max_fitness_generation * 2:
+    while generations < max_fitness_generation * 2:
         generations += 1
         print(f'Mutating for Generation: {generations}')
         population = mutate(population, mutate_synonym)
