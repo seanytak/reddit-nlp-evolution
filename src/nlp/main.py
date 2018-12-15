@@ -1,3 +1,5 @@
+import sys
+
 import matplotlib
 matplotlib.use('pdf')
 import matplotlib.pyplot as plt
@@ -8,7 +10,7 @@ from evo_objective import objective
 from evo_selection import fitness_proportional_selection
 
 
-def evolve(original_text: str, n: int):
+def evolve(original_text: str, n: int, max_generations: int = 35):
     def fitness_objective(member):
         return objective(member, original_text)
 
@@ -23,7 +25,7 @@ def evolve(original_text: str, n: int):
     worst_fitnesses = []
     mean_fitnesses = []
 
-    while generations < max_fitness_generation * 2:
+    while generations < max_fitness_generation * 2 and generations < max_generations:
         generations += 1
         print(f'Mutating for Generation: {generations}')
         population = mutate(population, mutate_synonym)
@@ -54,7 +56,7 @@ def evolve(original_text: str, n: int):
 
 
 best, worst, mean = evolve(
-    "People driving around town with their GD high beams on makes me crazy.",
+    str(sys.argv[1]) if len(sys.argv) > 1 else 'I want to swim in the swimming pool before midnight.',
     n=10)
 x = np.arange(0, len(best))
 

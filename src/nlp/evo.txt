@@ -1,0 +1,960 @@
+Mutating for Generation: 1
+Selection for Generation: 1
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 1	
+        Best: 1.9601457948888943	
+        Worst: 1.0	
+        Mean: 1.2767457416463048	
+        Population: ['I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 2
+Selection for Generation: 2
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 2	
+        Best: 1.9601457948888943	
+        Worst: 1.0	
+        Mean: 1.4473805026113655	
+        Population: ['I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 3
+Selection for Generation: 3
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 3	
+        Best: 1.9601457948888943	
+        Worst: 1.0	
+        Mean: 1.7681166359111156	
+        Population: ['I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 4
+Selection for Generation: 4
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 4	
+        Best: 2.7871952169515755	
+        Worst: 1.9601457948888943	
+        Mean: 2.1244363043782166	
+        Population: ['I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 5
+Selection for Generation: 5
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 5	
+        Best: 2.823130774578328	
+        Worst: 1.9601457948888943	
+        Mean: 2.375938331390487	
+        Population: ['I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.', 'I need to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 6
+Selection for Generation: 6
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 6	
+        Best: 2.8999572398887636	
+        Worst: 1.9601457948888943	
+        Mean: 2.403014401832514	
+        Population: ['I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 7
+Selection for Generation: 7
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 7	
+        Best: 3.6400371807305185	
+        Worst: 1.9601457948888943	
+        Mean: 2.7774348149109422	
+        Population: ['I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.', 'I need to swim in the swimming pool in_front midnight.']
+        
+Mutating for Generation: 8
+Selection for Generation: 8
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 8	
+        Best: 3.626005691843276	
+        Worst: 2.758736880183605	
+        Mean: 3.1428829223886705	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 9
+Selection for Generation: 9
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 9	
+        Best: 4.249447623834838	
+        Worst: 2.596251680574208	
+        Mean: 3.3678360715894344	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 10
+Selection for Generation: 10
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 10	
+        Best: 4.234513206512352	
+        Worst: 3.4285325420111064	
+        Mean: 3.5605864132433447	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 11
+Selection for Generation: 11
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 11	
+        Best: 3.9430905898322473	
+        Worst: 3.4285325420111064	
+        Mean: 3.578603441872783	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'iodin need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 12
+Selection for Generation: 12
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 12	
+        Best: 4.122009516804395	
+        Worst: 3.4285325420111064	
+        Mean: 3.6351878734218004	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to float inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 13
+Selection for Generation: 13
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 13	
+        Best: 4.06597248175438	
+        Worst: 2.772966388796705	
+        Mean: 3.488580467096164	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to float inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 14
+Selection for Generation: 14
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 14	
+        Best: 4.06597248175438	
+        Worst: 2.788948651364667	
+        Mean: 3.433816010278806	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 15
+Selection for Generation: 15
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 15	
+        Best: 4.06597248175438	
+        Worst: 3.4246754151437897	
+        Mean: 3.4918908232987014	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 16
+Selection for Generation: 16
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 16	
+        Best: 4.078154236274292	
+        Worst: 3.4285325420111064	
+        Mean: 3.5583897558494924	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 17
+Selection for Generation: 17
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 17	
+        Best: 4.122009516804395	
+        Worst: 2.772966388796705	
+        Mean: 3.432323624168995	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 18
+Selection for Generation: 18
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 18	
+        Best: 4.141681629487904	
+        Worst: 3.4285325420111064	
+        Mean: 3.499847450758786	
+        Population: ['I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.', 'I need to swim inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 19
+Selection for Generation: 19
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 19	
+        Best: 4.168293984617915	
+        Worst: 3.418858528498299	
+        Mean: 3.5015412849205063	
+        Population: ['I need to drown inch the swimming pool in_front midnight.', 'I call_for to swim inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 20
+Selection for Generation: 20
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 20	
+        Best: 4.168293984617915	
+        Worst: 3.6283913668814676	
+        Mean: 4.088052999797266	
+        Population: ['I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 21
+Selection for Generation: 21
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 21	
+        Best: 5.012000715381918	
+        Worst: 3.6384555189283305	
+        Mean: 4.259321748883065	
+        Population: ['I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 22
+Selection for Generation: 22
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 22	
+        Best: 4.244203541778486	
+        Worst: 4.114015687541333	
+        Mean: 4.173537833395978	
+        Population: ['I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool ahead midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.', 'I need to drown inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 23
+Selection for Generation: 23
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 23	
+        Best: 4.653302319024183	
+        Worst: 3.6384555189283305	
+        Mean: 4.167581608191336	
+        Population: ['I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool in_front midnight.']
+        
+Mutating for Generation: 24
+Selection for Generation: 24
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 24	
+        Best: 4.220183978084941	
+        Worst: 3.6384555189283305	
+        Mean: 3.7496122114129506	
+        Population: ['I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.', 'I need to drown inch the swimming pool before midnight.']
+        
+Mutating for Generation: 25
+Selection for Generation: 25
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 25	
+        Best: 4.502662837712415	
+        Worst: 3.5028605768833296	
+        Mean: 3.791588575230341	
+        Population: ['I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.']
+        
+Mutating for Generation: 26
+Selection for Generation: 26
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 26	
+        Best: 4.222162512713755	
+        Worst: 3.5028605768833296	
+        Mean: 3.7163163644584687	
+        Population: ['I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swimming pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.', 'I pauperism to drown inch the swim pool before midnight.']
+        
+Mutating for Generation: 27
+Selection for Generation: 27
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 27	
+        Best: 5.174304031047582	
+        Worst: 3.6384555189283305	
+        Mean: 4.495365820964164	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 28
+Selection for Generation: 28
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 28	
+        Best: 5.276826536731027	
+        Worst: 4.922738816793425	
+        Mean: 5.159399760190512	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim crime_syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to overwhelm inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 29
+Selection for Generation: 29
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 29	
+        Best: 5.7386431094277395	
+        Worst: 4.368271550352031	
+        Mean: 5.118987451427444	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 30
+Selection for Generation: 30
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 30	
+        Best: 5.567672375222682	
+        Worst: 5.173092496785361	
+        Mean: 5.217865646093975	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 31
+Selection for Generation: 31
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 31	
+        Best: 5.570309280826846	
+        Worst: 5.174304031047582	
+        Mean: 5.2139045560255095	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 32
+Selection for Generation: 32
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 32	
+        Best: 5.174304031047582	
+        Worst: 5.174304031047582	
+        Mean: 5.1743040310475825	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 33
+Selection for Generation: 33
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 33	
+        Best: 5.7696366144603655	
+        Worst: 5.174304031047582	
+        Mean: 5.235181842521484	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 34
+Selection for Generation: 34
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 34	
+        Best: 5.174304031047582	
+        Worst: 4.368271550352031	
+        Mean: 5.093700782978027	
+        Population: ['I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.', 'I pauperism to drown inch the swim syndicate before midnight.']
+        
+Mutating for Generation: 35
+Selection for Generation: 35
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 35	
+        Best: 5.174304031047582	
+        Worst: 4.927913167304552	
+        Mean: 5.145501423799298	
+        Population: ['I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.', 'I pauperism to drown inch the swim consortium before midnight.']
+        
+Mutating for Generation: 36
+Selection for Generation: 36
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 36	
+        Best: 4.994937793141007	
+        Worst: 4.210488546843811	
+        Mean: 4.807080354307926	
+        Population: ['I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.']
+        
+Mutating for Generation: 37
+Selection for Generation: 37
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 37	
+        Best: 5.184147987370968	
+        Worst: 4.230997366024476	
+        Mean: 4.437502560909607	
+        Population: ['I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.']
+        
+Mutating for Generation: 38
+Selection for Generation: 38
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 38	
+        Best: 4.369985031962578	
+        Worst: 3.5250875509742263	
+        Mean: 4.281642055711748	
+        Population: ['I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.']
+        
+Mutating for Generation: 39
+Selection for Generation: 39
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 39	
+        Best: 4.529760808576183	
+        Worst: 3.5643443062499314	
+        Mean: 4.305398537052674	
+        Population: ['I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.', 'I pauperism to drown in the swim consortium before midnight.']
+        
+Mutating for Generation: 40
+Selection for Generation: 40
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 40	
+        Best: 5.184147987370968	
+        Worst: 4.369985031962578	
+        Mean: 4.561865654880374	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 41
+Selection for Generation: 41
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 41	
+        Best: 5.702724023209103	
+        Worst: 4.444942393215132	
+        Mean: 5.088164472123615	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 42
+Selection for Generation: 42
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 42	
+        Best: 5.2832374502164825	
+        Worst: 4.444942393215132	
+        Mean: 5.049690213686041	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 43
+Selection for Generation: 43
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 43	
+        Best: 5.2832374502164825	
+        Worst: 4.369985031962578	
+        Mean: 5.112640638114682	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 44
+Selection for Generation: 44
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 44	
+        Best: 5.823131249474235	
+        Worst: 5.184147987370968	
+        Mean: 5.313489485615756	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 45
+Selection for Generation: 45
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 45	
+        Best: 5.184147987370968	
+        Worst: 4.332793174990706	
+        Mean: 5.08642560353457	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 46
+Selection for Generation: 46
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 46	
+        Best: 5.2832374502164825	
+        Worst: 5.146940043887696	
+        Mean: 5.195079646698369	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 47
+Selection for Generation: 47
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 47	
+        Best: 5.184147987370968	
+        Worst: 5.184147987370968	
+        Mean: 5.184147987370969	
+        Population: ['I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.', 'I pauperism to drown In the swim consortium before midnight.']
+        
+Mutating for Generation: 48
+Selection for Generation: 48
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 48	
+        Best: 5.710978140926933	
+        Worst: 5.05827896138724	
+        Mean: 5.289072187723462	
+        Population: ['I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.']
+        
+Mutating for Generation: 49
+Selection for Generation: 49
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 49	
+        Best: 6.035077847021868	
+        Worst: 5.018447053010294	
+        Mean: 5.296028687462586	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overtake In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 50
+Selection for Generation: 50
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 50	
+        Best: 5.2832374502164825	
+        Worst: 5.018447053010294	
+        Mean: 5.085717271924236	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overwhelm In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 51
+Selection for Generation: 51
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 51	
+        Best: 5.021093766377811	
+        Worst: 4.733313261199465	
+        Mean: 4.990198345165962	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 52
+Selection for Generation: 52
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 52	
+        Best: 5.721309901721355	
+        Worst: 5.018447053010294	
+        Mean: 5.191978931409452	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 53
+Selection for Generation: 53
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 53	
+        Best: 5.018447053010294	
+        Worst: 4.293716020262716	
+        Mean: 4.945973949735536	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 54
+Selection for Generation: 54
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 54	
+        Best: 5.018447053010294	
+        Worst: 4.741057774995786	
+        Mean: 4.990708125208842	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 55
+Selection for Generation: 55
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 55	
+        Best: 5.311191597641682	
+        Worst: 4.293716020262716	
+        Mean: 4.975248404198675	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 56
+Selection for Generation: 56
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 56	
+        Best: 5.2832374502164825	
+        Worst: 5.018447053010294	
+        Mean: 5.057428215527413	
+        Population: ['I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.']
+        
+Mutating for Generation: 57
+Selection for Generation: 57
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 57	
+        Best: 5.578609450821994	
+        Worst: 4.697823535631242	
+        Mean: 5.017544443108309	
+        Population: ['I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster In the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.']
+        
+Mutating for Generation: 58
+Selection for Generation: 58
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 58	
+        Best: 5.3454692671525965	
+        Worst: 4.625037882105529	
+        Mean: 4.879761884838314	
+        Population: ['I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'iodine pauperism to overmaster indium the swim consortium before midnight.']
+        
+Mutating for Generation: 59
+Selection for Generation: 59
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 59	
+        Best: 5.318885753376994	
+        Worst: 4.674133983963739	
+        Mean: 4.819063223651295	
+        Population: ['I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.']
+        
+Mutating for Generation: 60
+Selection for Generation: 60
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 60	
+        Best: 5.159131022082965	
+        Worst: 4.625037882105529	
+        Mean: 4.788884498290232	
+        Population: ['I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.']
+        
+Mutating for Generation: 61
+Selection for Generation: 61
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 61	
+        Best: 5.077611492900553	
+        Worst: 4.011666748277794	
+        Mean: 4.681500946711322	
+        Population: ['I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.']
+        
+Mutating for Generation: 62
+Selection for Generation: 62
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 62	
+        Best: 5.221747962032049	
+        Worst: 4.050311393615604	
+        Mean: 4.678186198717188	
+        Population: ['I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.', 'I pauperism to overmaster indium the swim consortium before midnight.']
+        
+Mutating for Generation: 63
+Selection for Generation: 63
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 63	
+        Best: 5.318885753376994	
+        Worst: 4.697823535631242	
+        Mean: 4.962495133548646	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 64
+Selection for Generation: 64
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 64	
+        Best: 5.8155156121173235	
+        Worst: 4.20876566618772	
+        Mean: 5.069946244681183	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swimming consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 65
+Selection for Generation: 65
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 65	
+        Best: 5.592485342300118	
+        Worst: 4.20876566618772	
+        Mean: 4.933233993179723	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 66
+Selection for Generation: 66
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 66	
+        Best: 5.208652746434017	
+        Worst: 4.973200930523247	
+        Mean: 4.996746112114325	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim syndicate before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 67
+Selection for Generation: 67
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 67	
+        Best: 5.5344060690889405	
+        Worst: 4.20876566618772	
+        Mean: 4.976423099537341	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 68
+Selection for Generation: 68
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 68	
+        Best: 5.0592645607429505	
+        Worst: 4.236099441025666	
+        Mean: 4.90809714459546	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 69
+Selection for Generation: 69
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 69	
+        Best: 5.592485342300118	
+        Worst: 4.973200930523247	
+        Mean: 5.095598766368395	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 70
+Selection for Generation: 70
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 70	
+        Best: 5.425779166277986	
+        Worst: 4.20876566618772	
+        Mean: 4.94636410847606	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 71
+Selection for Generation: 71
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 71	
+        Best: 5.229077422412358	
+        Worst: 4.847394440411748	
+        Mean: 4.986207930701009	
+        Population: ['I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.']
+        
+Mutating for Generation: 72
+Selection for Generation: 72
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 72	
+        Best: 5.455783899144246	
+        Worst: 4.8223020821455105	
+        Mean: 5.0618935217362875	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower indium the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 73
+Selection for Generation: 73
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 73	
+        Best: 5.941241372839388	
+        Worst: 4.400539779610479	
+        Mean: 5.156643588257442	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 74
+Selection for Generation: 74
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 74	
+        Best: 5.635900009830361	
+        Worst: 5.229077422412358	
+        Mean: 5.283990504166889	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 75
+Selection for Generation: 75
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 75	
+        Best: 5.798229616369308	
+        Worst: 5.152934829237248	
+        Mean: 5.306840028516001	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 76
+Selection for Generation: 76
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 76	
+        Best: 5.941241372839388	
+        Worst: 5.018447053010294	
+        Mean: 5.271616521197344	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I penury to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 77
+Selection for Generation: 77
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 77	
+        Best: 5.941241372839388	
+        Worst: 4.400539779610479	
+        Mean: 5.220856628236093	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 78
+Selection for Generation: 78
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 78	
+        Best: 5.941241372839388	
+        Worst: 4.418308001664966	
+        Mean: 5.219216875380322	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swimming consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 79
+Selection for Generation: 79
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 79	
+        Best: 5.615955219592932	
+        Worst: 4.418308001664966	
+        Mean: 5.191456260579299	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 80
+Selection for Generation: 80
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 80	
+        Best: 5.798229616369308	
+        Worst: 5.229077422412358	
+        Mean: 5.285992641808053	
+        Population: ['I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.', 'I pauperism to overpower In the swim consortium before midnight.']
+        
+Mutating for Generation: 81
+Selection for Generation: 81
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 81	
+        Best: 5.844174770242764	
+        Worst: 5.229077422412358	
+        Mean: 5.3572578784341855	
+        Population: ['I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 82
+Selection for Generation: 82
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 82	
+        Best: 5.844174770242764	
+        Worst: 5.735398321414879	
+        Mean: 5.8332971253599775	
+        Population: ['I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 83
+Selection for Generation: 83
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 83	
+        Best: 6.221408781221177	
+        Worst: 5.761678372894954	
+        Mean: 5.873648531605825	
+        Population: ['I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 84
+Selection for Generation: 84
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 84	
+        Best: 5.844174770242764	
+        Worst: 5.555979061626131	
+        Mean: 5.815355199381102	
+        Population: ['I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 85
+Selection for Generation: 85
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 85	
+        Best: 5.844174770242764	
+        Worst: 5.540809943865715	
+        Mean: 5.81383828760506	
+        Population: ['I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overpower In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 86
+Selection for Generation: 86
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 86	
+        Best: 5.844174770242764	
+        Worst: 5.463857256255814	
+        Mean: 5.557103300676074	
+        Population: ['I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 87
+Selection for Generation: 87
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 
+Completed Objective Function Calculations
+
+        Generation: 87	
+        Best: 6.083287092306152	
+        Worst: 5.540809943865715	
+        Mean: 5.606168522011084	
+        Population: ['I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.', 'I pauperism to overmaster In the swim consortium in_front midnight.']
+        
+Mutating for Generation: 88
+Selection for Generation: 88
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 
