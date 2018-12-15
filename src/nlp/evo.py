@@ -35,8 +35,15 @@ def evolve(original_text: str, n: int = 25, max_generations: int = 35):
                                                     fitness_objective)
         
         # population_fit = [fitness_objective(member) for member in population]
-        best_fitnesses.append(max(population_fit))
-        worst_fitnesses.append(min(population_fit))
+        best_idx = 0
+        worst_idx = 0
+        for i in range(len(population)):
+            best_idx = i if population_fit[i] > population_fit[best_idx] else best_idx
+            worst_idx = i if population_fit[i] < population_fit[worst_idx] else worst_idx
+        print(str(best_idx) + ' ' + str(worst_idx))
+
+        best_fitnesses.append(population_fit[best_idx])
+        worst_fitnesses.append(population_fit[worst_idx])
         mean_fitnesses.append(sum(population_fit) / len(population_fit))
 
         if curr_max_fitness < best_fitnesses[generations - 1]:
@@ -45,8 +52,8 @@ def evolve(original_text: str, n: int = 25, max_generations: int = 35):
 
         print(f'''
         Generation: {generations}\t
-        Best: {best_fitnesses[generations - 1]}\t
-        Worst: {worst_fitnesses[generations - 1]}\t
+        Best: {best_fitnesses[generations - 1]} | {population[best_idx]}\t
+        Worst: {worst_fitnesses[generations - 1]} | {population[worst_idx]}\t
         Mean: {mean_fitnesses[generations - 1]}\t
         Population: {population}
         ''')

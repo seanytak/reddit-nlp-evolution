@@ -46,14 +46,17 @@ def mutate_token_synonym(nlp, member: str):
     synonyms = list(set([l.name() for syn in wordnet.synsets(rand_token.text) for l in syn.lemmas()]))
     if synonyms:
         pos = None
-        print(f' Chosen Word: {rand_token.text} | Part-of-Speech: {rand_token.pos_}')
-        while pos != rand_token.pos_:
+        trials = 0
+        max_trials = 15
+        print(f'Chosen Word: {rand_token.text} | Part-of-Speech: {rand_token.pos_}')
+        while trials < max_trials and pos != rand_token.pos_:
             words[locus] = synonyms[rand.randrange(0, len(synonyms))]
             member = ' '.join(words)
             # member = ' '.join(token.text_with_ws for token in doc)
             doc = nlp(member)
             pos = doc[locus].pos_
-            print(f' Trying Replacement Word: {doc[locus].text} | Part-of-Speech: {doc[locus].pos_}')
+            print(f'Trying Replacement Word: {doc[locus].text} | Part-of-Speech: {doc[locus].pos_}')
+            trials += 1
     print(member)
 
     # Grammar Fixer
