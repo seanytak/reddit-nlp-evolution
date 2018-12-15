@@ -1,74 +1,34 @@
 from datetime import datetime
 import sys
 
+import click
 import matplotlib
-matplotlib.use('pdf')
 import matplotlib.pyplot as plt
+matplotlib.use('pdf')
 import numpy as np
-import spacy
 
-from evo_mutation import mutate, mutate_synonym, mutate_token_synonym
-from evo_objective import objective
-from evo_selection import fitness_proportional_selection
+from evo import evolve
 
+@click.command()
+@click.option('-t', '--text', default='I am really hungry in the daytime but not the nighttime.', help='Base text to modify.')
+@click.option('-n', '--population-size', default=25, help='Number of members in the population.')
+@click.option('-g', '--generations', default=25, help='Minimum number of generations.')
+@click.option('-m', '--max-generations', default=35, help='Maximum number of generations.')
+def main(text: str, population_size: int, generations: int, max_generations: int):
+    """Driver code for the evolve program"""
+    best, worst, mean = evolve(text, population_size, max_generations)
+    x = np.arange(0, len(best))
+    plt.scatter(x, y=np.array(best), label='Best')
+    plt.scatter(x, y=np.array(worst), label='Worst')
+    plt.scatter(x, y=np.array(mean), label='Mean')
+    plt.xlabel('Generations')
+    plt.ylabel('Fitness')
+    plt.title('Objective Function on the Best Individual in the Population')
+    plt.legend()
+    plt.savefig(f'results_{datetime.now()}.pdf')
 
-def evolve(original_text: str, n: int, max_generations: int = 35):
-    nlp = spacy.load('en_core_web_sm')
-
-    def fitness_objective(member):
-        return objective(nlp, member, original_text)
-
-    # Initialize Population
-    population = [original_text] * n
-
-    generations = 0
-    max_fitness_generation = 100
-    curr_max_fitness = 0
-
-    best_fitnesses = []
-    worst_fitnesses = []
-    mean_fitnesses = []
-
-    while generations < max_fitness_generation * 2 and generations < max_generations:
-        generations += 1
-        print(f'Mutating for Generation: {generations}')
-        population = mutate(nlp, population, mutate_token_synonym)
-
-        print(f'Selection for Generation: {generations}')
-        population, population_fit = fitness_proportional_selection(population,
-                                                    fitness_objective)
-        
-
-        # population_fit = [fitness_objective(member) for member in population]
-        best_fitnesses.append(max(population_fit))
-        worst_fitnesses.append(min(population_fit))
-        mean_fitnesses.append(sum(population_fit) / len(population_fit))
-
-        if curr_max_fitness < best_fitnesses[generations - 1]:
-            max_fitness_generation = generations if generations > 100 else 100
-            curr_max_fitness = best_fitnesses[generations - 1]
-
-        print(f'''
-        Generation: {generations}\t
-        Best: {best_fitnesses[generations - 1]}\t
-        Worst: {worst_fitnesses[generations - 1]}\t
-        Mean: {mean_fitnesses[generations - 1]}\t
-        Population: {population}
-        ''')
-
-    return best_fitnesses, worst_fitnesses, mean_fitnesses
+if __name__ == '__main__':
+    main()
 
 
-best, worst, mean = evolve(
-    str(sys.argv[1]) if len(sys.argv) > 1 else 'I am really hungry in the daytime but not the nighttime.',
-    n=50, max_generations=35)
-x = np.arange(0, len(best))
 
-plt.scatter(x, y=np.array(best), label='Best')
-plt.scatter(x, y=np.array(worst), label='Worst')
-plt.scatter(x, y=np.array(mean), label='Mean')
-plt.xlabel('Generations')
-plt.ylabel('Fitness')
-plt.title('Objective Function on the Best Individual in the Population')
-plt.legend()
-plt.savefig(f'results_{datetime.now()}.pdf')
