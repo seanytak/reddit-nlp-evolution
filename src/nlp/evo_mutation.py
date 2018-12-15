@@ -19,8 +19,20 @@ def mutate(nlp, population, mutate_func, mutation_rate=0.5):
         population_mut.append(offspring)
     return population_mut
 
+def mutate_verb(nlp, member: str):
+    doc = nlp(member)
+    verbs = []
+    for idx in range(1, len(doc)):
+        if doc[idx].pos_ == 'VERB' and doc[idx - 1].pos_ != 'ADV':
+            verbs.append((doc[idx].text, idx))
+    
+    
+
+
+
 def mutate_token_synonym(nlp, member: str):
 
+    # Pick a random word
     words = member.split(' ')
     locus = rand.randrange(0, len(words))
 
