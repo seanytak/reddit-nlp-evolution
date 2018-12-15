@@ -1,0 +1,385 @@
+(reddit-nlp-evolution) seanytak@MSI:~/Projects/reddit-nlp-evolution/src/nlp$ python main.py
+Mutating for Generation: 1
+Selection for Generation: 1
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 1
+        Best: 0.19555881060662048
+        Worst: 0.1
+        Mean: 0.1254882065465706
+        Population: ['I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim inch the swimming pool before midnight.']
+
+Mutating for Generation: 2
+Selection for Generation: 2
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 2
+        Best: 0.2436939551994805
+        Worst: 0.17699508181069823
+        Mean: 0.1863759055773106
+        Population: ['I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.', 'I want to swim in the liquid pool before midnight.']
+
+Mutating for Generation: 3
+Selection for Generation: 3
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 3
+        Best: 0.2491515316597998
+        Worst: 0.17215668027850325
+        Mean: 0.19497886090594707
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'ane want to swim in the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 4
+Selection for Generation: 4
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 4
+        Best: 0.28842395928513004
+        Worst: 0.22028618208924663
+        Mean: 0.2505599702493476
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'unity want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 5
+Selection for Generation: 5
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 5
+        Best: 0.2888191802800365
+        Worst: 0.2340828138202295
+        Mean: 0.2443507385414209
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'unity want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 6
+Selection for Generation: 6
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 6
+        Best: 0.28202569457233667
+        Worst: 0.2340828138202295
+        Mean: 0.2427009400376436
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 7
+Selection for Generation: 7
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 7
+        Best: 0.27515014736534205
+        Worst: 0.2340828138202295
+        Mean: 0.23982743452141353
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 8
+Selection for Generation: 8
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 8
+        Best: 0.2504616872869577
+        Worst: 0.22716830697122115
+        Mean: 0.23433779979710065
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 9
+Selection for Generation: 9
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 9
+        Best: 0.27191510961716103
+        Worst: 0.2340828138202295
+        Mean: 0.23786604339992262
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', '1 want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 10
+Selection for Generation: 10
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 10
+        Best: 0.2861860568479156
+        Worst: 0.2340828138202295
+        Mean: 0.24718310105720254
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 11
+Selection for Generation: 11
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 11
+        Best: 0.24322449054572112
+        Worst: 0.2340828138202295
+        Mean: 0.23499698149277864
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 12
+Selection for Generation: 12
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 12
+        Best: 0.2340828138202295
+        Worst: 0.2340828138202295
+        Mean: 0.2340828138202295
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 13
+Selection for Generation: 13
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 13
+        Best: 0.30865181080604465
+        Worst: 0.2340828138202295
+        Mean: 0.25107763855064735
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 14
+Selection for Generation: 14
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 14
+        Best: 0.28842395928513004
+        Worst: 0.2340828138202295
+        Mean: 0.2456865902113461
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 15
+Selection for Generation: 15
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 15
+        Best: 0.2340828138202295
+        Worst: 0.18038375234536588
+        Mean: 0.22871290767274313
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 16
+Selection for Generation: 16
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 16
+        Best: 0.3004515216125408
+        Worst: 0.2340828138202295
+        Mean: 0.24349127576559582
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 17
+Selection for Generation: 17
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 17
+        Best: 0.30865181080604465
+        Worst: 0.22765047645704
+        Mean: 0.24988825450936408
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquidness pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 18
+Selection for Generation: 18
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 18
+        Best: 0.2340828138202295
+        Worst: 0.22765047645704
+        Mean: 0.23343958008391055
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 19
+Selection for Generation: 19
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 19
+        Best: 0.2937783155939491
+        Worst: 0.2340828138202295
+        Mean: 0.24100459339944358
+        Population: ['I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool before midnight.']
+
+Mutating for Generation: 20
+Selection for Generation: 20
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 20
+        Best: 0.3004515216125408
+        Worst: 0.2340828138202295
+        Mean: 0.24968739493527653
+        Population: ['I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool before midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.', 'I want to swim inwards the liquid pool earlier midnight.']
+
+Mutating for Generation: 21
+Selection for Generation: 21
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 21
+        Best: 0.3147952160617355
+        Worst: 0.23360794458147582
+        Mean: 0.2622776169252736
+        Population: ['I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I deprivation to swim inwards the liquid pool before midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.']
+
+Mutating for Generation: 22
+Selection for Generation: 22
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 22
+        Best: 0.284195828440888
+        Worst: 0.26527945472176756
+        Mean: 0.269075095737907
+        Population: ['I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float inwards the liquid puddle earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.']
+
+Mutating for Generation: 23
+Selection for Generation: 23
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 23
+        Best: 0.29959786725591764
+        Worst: 0.26527945472176756
+        Mean: 0.27364161514434265
+        Population: ['I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float inwards the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.']
+
+Mutating for Generation: 24
+Selection for Generation: 24
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 24
+        Best: 0.2688778456555863
+        Worst: 0.24666990741806175
+        Mean: 0.2666570518318338
+        Population: ['I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.']
+
+Mutating for Generation: 25
+Selection for Generation: 25
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 25
+        Best: 0.2855200691310238
+        Worst: 0.2624533226975542
+        Mean: 0.27156383805487055
+        Population: ['I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.']
+
+Mutating for Generation: 26
+Selection for Generation: 26
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 26
+        Best: 0.3079621220886418
+        Worst: 0.23356596026399834
+        Mean: 0.27081962853075725
+        Population: ['I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.']
+
+Mutating for Generation: 27
+Selection for Generation: 27
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 27
+        Best: 0.3384399550018499
+        Worst: 0.24268936836351657
+        Mean: 0.27446997351267893
+        Population: ['I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.', 'I want to float in the fluent pool earlier midnight.']
+
+Mutating for Generation: 28
+Selection for Generation: 28
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 28
+        Best: 0.326429354433473
+        Worst: 0.26134122457083464
+        Mean: 0.28131778278874864
+        Population: ['I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float in the liquid pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.']
+
+Mutating for Generation: 29
+Selection for Generation: 29
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 29
+        Best: 0.41458760216174567
+        Worst: 0.2688778456555863
+        Mean: 0.32610744940526626
+        Population: ['I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.']
+
+Mutating for Generation: 30
+Selection for Generation: 30
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 30
+        Best: 0.3688916383676632
+        Worst: 0.27018141302104665
+        Mean: 0.316161597951888
+        Population: ['I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.', 'I want to float In the fluent pool earlier midnight.']
+
+Mutating for Generation: 31
+Selection for Generation: 31
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 31
+        Best: 0.33304071554114156
+        Worst: 0.26134031262453294
+        Mean: 0.31195181134190964
+        Population: ['I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to blow In the fluent pool earlier midnight.', 'I want to float atomic_number_49 the fluent pool earlier midnight.', 'I want to float In the fluent pool former midnight.']
+
+Mutating for Generation: 32
+Selection for Generation: 32
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 32
+        Best: 0.3872249073964792
+        Worst: 0.26134031262453294
+        Mean: 0.32985577660359744
+        Population: ['I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.']
+
+Mutating for Generation: 33
+Selection for Generation: 33
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 33
+        Best: 0.39757210583632957
+        Worst: 0.3489856013291126
+        Mean: 0.38089992499230574
+        Population: ['I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.']
+
+Mutating for Generation: 34
+Selection for Generation: 34
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 34
+        Best: 0.40820386810887843
+        Worst: 0.37376044182064777
+        Mean: 0.3881255463028848
+        Population: ['I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.']
+
+Mutating for Generation: 35
+Selection for Generation: 35
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 35
+        Best: 0.3872249073964792
+        Worst: 0.3349064997482305
+        Mean: 0.37733891688583515
+        Population: ['I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.', 'I want to blow In the fluent consortium earlier midnight.']

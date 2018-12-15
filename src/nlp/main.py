@@ -57,7 +57,7 @@ def evolve(original_text: str, n: int, max_generations: int = 35):
 
 best, worst, mean = evolve(
     str(sys.argv[1]) if len(sys.argv) > 1 else 'I want to swim in the swimming pool before midnight.',
-    n=10)
+    n=25)
 x = np.arange(0, len(best))
 
 plt.scatter(x, y=np.array(best), label='Best')

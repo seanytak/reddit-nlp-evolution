@@ -2,6 +2,8 @@ import random as rand
 import nltk 
 from nltk.corpus import wordnet 
 
+import language_check
+
 import numpy as np
 import pandas as pd
 
@@ -29,5 +31,10 @@ def mutate_synonym(member: str):
     synonyms = list(set([l.name() for syn in wordnet.synsets(rand_word) for l in syn.lemmas()]))
     if synonyms:
         words[locus] = synonyms[rand.randrange(0, len(synonyms))]
-    return ' '.join(words)
+
+    text = ' '.join(words)
+    tool = language_check.LanguageTool('en-US')
+    matches = tool.check(text)
+    text = language_check.correct(text, matches)
+    return text
 

@@ -1,0 +1,385 @@
+(reddit-nlp-evolution) seanytak@MSI:~/Projects/reddit-nlp-evolution/src/nlp$ python main.py
+Mutating for Generation: 1
+Selection for Generation: 1
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 1
+        Best: 0.24259377435699656
+        Worst: 0.125
+        Mean: 0.157612737809196
+        Population: ['The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain equal pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.', 'The rain is pouring heavily outside right now.']
+
+Mutating for Generation: 2
+Selection for Generation: 2
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 2
+        Best: 0.23125886660486525
+        Worst: 0.125
+        Mean: 0.17280452867373705
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 3
+Selection for Generation: 3
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 3
+        Best: 0.2665844872343058
+        Worst: 0.21495148964958677
+        Mean: 0.22011478940805868
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 4
+Selection for Generation: 4
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 4
+        Best: 0.28693104945029957
+        Worst: 0.21495148964958677
+        Mean: 0.23258651463457625
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 5
+Selection for Generation: 5
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 5
+        Best: 0.32038861527261164
+        Worst: 0.125
+        Mean: 0.22257893681944602
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 6
+Selection for Generation: 6
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 6
+        Best: 0.30650344627037407
+        Worst: 0.21495148964958677
+        Mean: 0.22846722428586666
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 7
+Selection for Generation: 7
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 7
+        Best: 0.2793566467720362
+        Worst: 0.21495148964958677
+        Mean: 0.22139200536183173
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 8
+Selection for Generation: 8
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 8
+        Best: 0.3223589406325118
+        Worst: 0.21171417796621012
+        Mean: 0.2298925094986371
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 9
+Selection for Generation: 9
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 9
+        Best: 0.32163028464357823
+        Worst: 0.21495148964958677
+        Mean: 0.24830350073151383
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outdoors right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 10
+Selection for Generation: 10
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 10
+        Best: 0.32163028464357823
+        Worst: 0.21495148964958677
+        Mean: 0.25983931496656687
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outdoors right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 11
+Selection for Generation: 11
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 11
+        Best: 0.30357912648974
+        Worst: 0.21495148964958677
+        Mean: 0.23661226040648545
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 12
+Selection for Generation: 12
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 12
+        Best: 0.3223589406325118
+        Worst: 0.21495148964958677
+        Mean: 0.2473942214025877
+        Population: ['The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 13
+Selection for Generation: 13
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 13
+        Best: 0.3223589406325118
+        Worst: 0.21495148964958677
+        Mean: 0.2536894229346397
+        Population: ['The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rain is pouring to_a_great_extent outside right_on now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 14
+Selection for Generation: 14
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 14
+        Best: 0.3085307463717404
+        Worst: 0.21495148964958677
+        Mean: 0.2891310422184148
+        Population: ['The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 15
+Selection for Generation: 15
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 15
+        Best: 0.35971294095315764
+        Worst: 0.3085307463717404
+        Mean: 0.32335309909282295
+        Population: ['The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall is pouring to_a_great_extent outside right_on now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 16
+Selection for Generation: 16
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 16
+        Best: 0.36898447497345327
+        Worst: 0.30911904320456923
+        Mean: 0.32592024750390014
+        Population: ['The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall be pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent outside right now.']
+
+Mutating for Generation: 17
+Selection for Generation: 17
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 17
+        Best: 0.3649315395091337
+        Worst: 0.2494937253834374
+        Mean: 0.3135401408938281
+        Population: ['The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent outside right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.', 'The rainfall personify pouring to_a_great_extent out_of_doors right now.']
+
+Mutating for Generation: 18
+Selection for Generation: 18
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 18
+        Best: 0.42693898807506286
+        Worst: 0.2740507106800658
+        Mean: 0.3414554395367572
+        Population: ['The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 19
+Selection for Generation: 19
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 19
+        Best: 0.46552474440581015
+        Worst: 0.35093606598585414
+        Mean: 0.4241599997841097
+        Population: ['The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 20
+Selection for Generation: 20
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 20
+        Best: 0.43490710769911667
+        Worst: 0.27563145850451093
+        Mean: 0.4126050470804131
+        Population: ['The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 21
+Selection for Generation: 21
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 21
+        Best: 0.46552474440581015
+        Worst: 0.34708108155483275
+        Mean: 0.4149957740527805
+        Population: ['The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall personify pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 22
+Selection for Generation: 22
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 22
+        Best: 0.46552474440581015
+        Worst: 0.36898447497345327
+        Mean: 0.4424784100929676
+        Population: ['The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.', 'The rainfall be pouring to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 23
+Selection for Generation: 23
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 23
+        Best: 0.46552474440581015
+        Worst: 0.3154853716433923
+        Mean: 0.424157027269133
+        Population: ['The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 24
+Selection for Generation: 24
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 24
+        Best: 0.47191127960434837
+        Worst: 0.3593240819904534
+        Mean: 0.4486513737067542
+        Population: ['The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent open_air right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem heavily outdoors right now.']
+
+Mutating for Generation: 25
+Selection for Generation: 25
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 25
+        Best: 0.47191127960434837
+        Worst: 0.3593240819904534
+        Mean: 0.44673509489785224
+        Population: ['The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent open_air right now.', 'The rainfall be teem heavily outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 26
+Selection for Generation: 26
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 26
+        Best: 0.47191127960434837
+        Worst: 0.35658344580829066
+        Mean: 0.4218191226095006
+        Population: ['The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem heavily outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be pour to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.', 'The rainfall be teem to_a_great_extent outdoors right now.']
+
+Mutating for Generation: 27
+Selection for Generation: 27
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 27
+        Best: 0.47191127960434837
+        Worst: 0.4096900772005276
+        Mean: 0.46040038351919693
+        Population: ['The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.', 'The rainfall be teem to_a_great_extent open right now.']
+
+Mutating for Generation: 28
+Selection for Generation: 28
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 28
+        Best: 0.4096900772005276
+        Worst: 0.3699135867757526
+        Mean: 0.4047394943653157
+        Population: ['The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.']
+
+Mutating for Generation: 29
+Selection for Generation: 29
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 29
+        Best: 0.3999607392731835
+        Worst: 0.36687514597633697
+        Mean: 0.39411493597955316
+        Population: ['The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.', 'The rainfall be stream to_a_great_extent open right now.']
+
+Mutating for Generation: 30
+Selection for Generation: 30
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 30
+        Best: 0.3999607392731835
+        Worst: 0.37458829963372664
+        Mean: 0.38220003152556375
+        Population: ['The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.', 'The rainfall be swarm to_a_great_extent open right now.']
+
+Mutating for Generation: 31
+Selection for Generation: 31
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 31
+        Best: 0.42806467339840615
+        Worst: 0.31824532649415954
+        Mean: 0.3756338605164401
+        Population: ['The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.']
+
+Mutating for Generation: 32
+Selection for Generation: 32
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 32
+        Best: 0.31824532649415954
+        Worst: 0.31824532649415954
+        Mean: 0.3182453264941595
+        Population: ['The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.', 'The rainfall be swarm to_a_great_extent open veracious now.']
+
+Mutating for Generation: 33
+Selection for Generation: 33
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 33
+        Best: 0.31824532649415954
+        Worst: 0.2778066886485684
+        Mean: 0.31095666761391255
+        Population: ['The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.']
+
+Mutating for Generation: 34
+Selection for Generation: 34
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 34
+        Best: 0.3870970078049869
+        Worst: 0.2778066886485684
+        Mean: 0.2959479192705564
+        Population: ['The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.']
+
+Mutating for Generation: 35
+Selection for Generation: 35
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9
+Completed Objective Function Calculations
+
+        Generation: 35
+        Best: 0.3297191244115637
+        Worst: 0.2778066886485684
+        Mean: 0.2829979322248679
+        Population: ['The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.', 'The rainfall beryllium swarm to_a_great_extent open veracious now.']

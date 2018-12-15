@@ -1,0 +1,124 @@
+Mutating for Generation: 1
+Selection for Generation: 1
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 1	
+        Best: 0.1881650386822172	
+        Worst: 0.1	
+        Mean: 0.10991959023019587	
+        Population: ['I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 2
+Selection for Generation: 2
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 2	
+        Best: 0.1900564874449517	
+        Worst: 0.1	
+        Mean: 0.11336247458424903	
+        Population: ['I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swimming in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.']
+        
+Mutating for Generation: 3
+Selection for Generation: 3
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 3	
+        Best: 0.2506596485641403	
+        Worst: 0.1	
+        Mean: 0.1350336664970664	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim in the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 4
+Selection for Generation: 4
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 4	
+        Best: 0.26377485005739476	
+        Worst: 0.1	
+        Mean: 0.18664300352328347	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 5
+Selection for Generation: 5
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 5	
+        Best: 0.2605175312127165	
+        Worst: 0.18167013851899505	
+        Mean: 0.2016533760778584	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swimming Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 6
+Selection for Generation: 6
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 6	
+        Best: 0.2571227975122726	
+        Worst: 0.18167013851899505	
+        Mean: 0.18813190980786537	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 7
+Selection for Generation: 7
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 7	
+        Best: 0.2605175312127165	
+        Worst: 0.18005380446644875	
+        Mean: 0.19758650549173468	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 8
+Selection for Generation: 8
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 8	
+        Best: 0.2605175312127165	
+        Worst: 0.18005380446644875	
+        Mean: 0.19537818442648056	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 9
+Selection for Generation: 9
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 9	
+        Best: 0.26377485005739476	
+        Worst: 0.18005380446644875	
+        Mean: 0.1932929349271543	
+        Population: ['I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.', 'I want to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 10
+Selection for Generation: 10
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 10	
+        Best: 0.2723947269716473	
+        Worst: 0.18167013851899505	
+        Mean: 0.21201690393113515	
+        Population: ['I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 11
+Selection for Generation: 11
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 11	
+        Best: 0.3307821094033108	
+        Worst: 0.25128610412178803	
+        Mean: 0.2710279911973402	
+        Population: ['I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.', 'I deprivation to swim Hoosier_State the swimming pool before midnight.']
+        
+Mutating for Generation: 12
+Selection for Generation: 12
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
