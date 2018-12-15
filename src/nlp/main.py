@@ -7,14 +7,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 import spacy
 
-from evo_mutation import mutate, mutate_synonym
+from evo_mutation import mutate, mutate_synonym, mutate_token_synonym
 from evo_objective import objective
 from evo_selection import fitness_proportional_selection
 
 
 def evolve(original_text: str, n: int, max_generations: int = 35):
+    nlp = spacy.load('en_core_web_sm')
+
     def fitness_objective(member):
-        nlp = spacy.load('en_core_web_sm')
         return objective(nlp, member, original_text)
 
     # Initialize Population
@@ -31,7 +32,7 @@ def evolve(original_text: str, n: int, max_generations: int = 35):
     while generations < max_fitness_generation * 2 and generations < max_generations:
         generations += 1
         print(f'Mutating for Generation: {generations}')
-        population = mutate(population, mutate_synonym)
+        population = mutate(nlp, population, mutate_token_synonym)
 
         print(f'Selection for Generation: {generations}')
         population, population_fit = fitness_proportional_selection(population,
@@ -59,8 +60,8 @@ def evolve(original_text: str, n: int, max_generations: int = 35):
 
 
 best, worst, mean = evolve(
-    str(sys.argv[1]) if len(sys.argv) > 1 else 'I\'m really hungry in the daytime but not the nighttime.',
-    n=25)
+    str(sys.argv[1]) if len(sys.argv) > 1 else 'I am really hungry in the daytime but not the nighttime.',
+    n=50, max_generations=35)
 x = np.arange(0, len(best))
 
 plt.scatter(x, y=np.array(best), label='Best')

@@ -1,0 +1,385 @@
+Mutating for Generation: 1
+Selection for Generation: 1
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 1	
+        Best: 0.43228582484498834	
+        Worst: 0.31622776601683794	
+        Mean: 0.3331986973549674	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 2
+Selection for Generation: 2
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 2	
+        Best: 0.43228582484498834	
+        Worst: 0.31622776601683794	
+        Mean: 0.3358330333988985	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 3
+Selection for Generation: 3
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 3	
+        Best: 0.4377810148825715	
+        Worst: 0.31622776601683794	
+        Mean: 0.34284944192213623	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 4
+Selection for Generation: 4
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 4	
+        Best: 0.43894061016427505	
+        Worst: 0.31622776601683794	
+        Mean: 0.3286494572592518	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but non the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 5
+Selection for Generation: 5
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 5	
+        Best: 0.43228582484498834	
+        Worst: 0.31622776601683794	
+        Mean: 0.3398462815839014	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 6
+Selection for Generation: 6
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 6	
+        Best: 0.4377810148825715	
+        Worst: 0.31622776601683794	
+        Mean: 0.3435020854224813	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 7
+Selection for Generation: 7
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 7	
+        Best: 0.4120175975244955	
+        Worst: 0.31622776601683794	
+        Mean: 0.3343369288300711	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 8
+Selection for Generation: 8
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 8	
+        Best: 0.43228582484498834	
+        Worst: 0.31622776601683794	
+        Mean: 0.33910351008680606	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 9
+Selection for Generation: 9
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 9	
+        Best: 0.4382225495961598	
+        Worst: 0.31622776601683794	
+        Mean: 0.3392907217330396	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 10
+Selection for Generation: 10
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 10	
+        Best: 0.4352740009045826	
+        Worst: 0.31622776601683794	
+        Mean: 0.3453159905259023	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 11
+Selection for Generation: 11
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 11	
+        Best: 0.4082673714220898	
+        Worst: 0.31622776601683794	
+        Mean: 0.3272708483290041	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 12
+Selection for Generation: 12
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 12	
+        Best: 0.4382225495961598	
+        Worst: 0.31622776601683794	
+        Mean: 0.333195370562813	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 13
+Selection for Generation: 13
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 13	
+        Best: 0.4377810148825715	
+        Worst: 0.31622776601683794	
+        Mean: 0.35264308599918254	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 14
+Selection for Generation: 14
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 14	
+        Best: 0.4261569765092435	
+        Worst: 0.31622776601683794	
+        Mean: 0.34313803662875814	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 15
+Selection for Generation: 15
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 15	
+        Best: 0.4382225495961598	
+        Worst: 0.31622776601683794	
+        Mean: 0.34558532105736356	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm in_truth hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 16
+Selection for Generation: 16
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 16	
+        Best: 0.4654112115938618	
+        Worst: 0.31622776601683794	
+        Mean: 0.3383087221557746	
+        Population: ["I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime but not the nighttime."]
+        
+Mutating for Generation: 17
+Selection for Generation: 17
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 17	
+        Best: 0.440696477551585	
+        Worst: 0.31622776601683794	
+        Mean: 0.34109707114884896	
+        Population: ["I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime but not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime.", "I'm really hungry in the daytime just not the nighttime."]
+        
+Mutating for Generation: 18
+Selection for Generation: 18
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 18	
+        Best: 0.4949651867900605	
+        Worst: 0.31622776601683794	
+        Mean: 0.4159158333686365	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 19
+Selection for Generation: 19
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 19	
+        Best: 0.49723063223147135	
+        Worst: 0.44005150281370775	
+        Mean: 0.44926352578646617	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 20
+Selection for Generation: 20
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 20	
+        Best: 0.5072836426846905	
+        Worst: 0.4424966163217919	
+        Mean: 0.4515650335509021	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 21
+Selection for Generation: 21
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 21	
+        Best: 0.4949651867900605	
+        Worst: 0.4357275427723968	
+        Mean: 0.45144980606166113	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 22
+Selection for Generation: 22
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 22	
+        Best: 0.49671313282242013	
+        Worst: 0.4422765990296649	
+        Mean: 0.45004511862547675	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 23
+Selection for Generation: 23
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 23	
+        Best: 0.44581292996585525	
+        Worst: 0.43133808694549225	
+        Mean: 0.4452339362450409	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 24
+Selection for Generation: 24
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 24	
+        Best: 0.5072836426846905	
+        Worst: 0.4357275427723968	
+        Mean: 0.4515893866300798	
+        Population: ["I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime.", "I'm really hungry Indiana the daytime just not the nighttime."]
+        
+Mutating for Generation: 25
+Selection for Generation: 25
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 25	
+        Best: 0.5058387275530519	
+        Worst: 0.44581292996585525	
+        Mean: 0.45678653732186514	
+        Population: ["I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime."]
+        
+Mutating for Generation: 26
+Selection for Generation: 26
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 26	
+        Best: 0.5585696050354847	
+        Worst: 0.47758670485520716	
+        Mean: 0.505582205620192	
+        Population: ["I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime."]
+        
+Mutating for Generation: 27
+Selection for Generation: 27
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 27	
+        Best: 0.560653987282137	
+        Worst: 0.4949651867900605	
+        Mean: 0.49973748034894705	
+        Population: ["I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime."]
+        
+Mutating for Generation: 28
+Selection for Generation: 28
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 28	
+        Best: 0.560653987282137	
+        Worst: 0.4915428299326976	
+        Mean: 0.499367426481882	
+        Population: ["I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just not the nighttime."]
+        
+Mutating for Generation: 29
+Selection for Generation: 29
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 29	
+        Best: 0.5412448925957797	
+        Worst: 0.40822561301048665	
+        Mean: 0.49863014194752603	
+        Population: ["I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just not the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime."]
+        
+Mutating for Generation: 30
+Selection for Generation: 30
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 30	
+        Best: 0.5843278284201666	
+        Worst: 0.4949651867900605	
+        Mean: 0.5370758591917327	
+        Population: ["I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime."]
+        
+Mutating for Generation: 31
+Selection for Generation: 31
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 31	
+        Best: 0.5912243609872186	
+        Worst: 0.47420346104315314	
+        Mean: 0.5377122503407945	
+        Population: ["I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm actually hungry IN the daytime just non the nighttime.", "I'm rattling hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime."]
+        
+Mutating for Generation: 32
+Selection for Generation: 32
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 32	
+        Best: 0.5912243609872186	
+        Worst: 0.4949651867900605	
+        Mean: 0.5430775913511069	
+        Population: ["I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime."]
+        
+Mutating for Generation: 33
+Selection for Generation: 33
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 33	
+        Best: 0.5607164937018934	
+        Worst: 0.4901084843968531	
+        Mean: 0.5384863434986813	
+        Population: ["I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime."]
+        
+Mutating for Generation: 34
+Selection for Generation: 34
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 34	
+        Best: 0.5894305344670776	
+        Worst: 0.4901084843968531	
+        Mean: 0.541844071618952	
+        Population: ["I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime."]
+        
+Mutating for Generation: 35
+Selection for Generation: 35
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Completed Objective Function Calculations
+
+        Generation: 35	
+        Best: 0.5680710818006498	
+        Worst: 0.47420346104315314	
+        Mean: 0.5371064268050367	
+        Population: ["I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daytime just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime.", "I'm really hungry IN the daylight just non the nighttime."]
+        
