@@ -1,9 +1,11 @@
+from datetime import datetime
 import sys
 
 import matplotlib
 matplotlib.use('pdf')
 import matplotlib.pyplot as plt
 import numpy as np
+import spacy
 
 from evo_mutation import mutate, mutate_synonym
 from evo_objective import objective
@@ -12,7 +14,8 @@ from evo_selection import fitness_proportional_selection
 
 def evolve(original_text: str, n: int, max_generations: int = 35):
     def fitness_objective(member):
-        return objective(member, original_text)
+        nlp = spacy.load('en_core_web_sm')
+        return objective(nlp, member, original_text)
 
     # Initialize Population
     population = [original_text] * n
@@ -56,7 +59,7 @@ def evolve(original_text: str, n: int, max_generations: int = 35):
 
 
 best, worst, mean = evolve(
-    str(sys.argv[1]) if len(sys.argv) > 1 else 'I want to swim in the swimming pool before midnight.',
+    str(sys.argv[1]) if len(sys.argv) > 1 else 'I\'m really hungry in the daytime but not the nighttime.',
     n=25)
 x = np.arange(0, len(best))
 
@@ -67,4 +70,4 @@ plt.xlabel('Generations')
 plt.ylabel('Fitness')
 plt.title('Objective Function on the Best Individual in the Population')
 plt.legend()
-plt.savefig('results.pdf')
+plt.savefig(f'results_{datetime.now()}.pdf')

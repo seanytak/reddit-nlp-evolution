@@ -35,6 +35,8 @@ def mutate_synonym(member: str):
     text = ' '.join(words)
     tool = language_check.LanguageTool('en-US')
     matches = tool.check(text)
+    if len(matches):
+        print(matches[0].replacements)
     text = language_check.correct(text, matches)
     return text
 
