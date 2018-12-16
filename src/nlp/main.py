@@ -25,9 +25,9 @@ def main(text: str, population_size: int, generations: int, max_generations: int
     plt.scatter(x, y=np.array(mean), label='Mean')
     plt.xlabel('Generations')
     plt.ylabel('Fitness')
-    plt.title('Objective Function on the Best Individual in the Population')
+    plt.title('Best, Mean, and Worst Fitness of the Population at each Generation')
     plt.legend()
-    plt.savefig(f'results/results_{datetime.now()}.pdf')
+    plt.savefig(f'results/results_{text[:len(text)//5]}_{datetime.now()}.pdf')
 
 if __name__ == '__main__':
     main()

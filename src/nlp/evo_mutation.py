@@ -29,9 +29,6 @@ def mutate_verb(nlp, member: str):
             verbs.append((doc[idx].text, idx))
     
     
-
-
-
 def mutate_token_synonym(nlp, member: str):
 
     # Pick a random word
