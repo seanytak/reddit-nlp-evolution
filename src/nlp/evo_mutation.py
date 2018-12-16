@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 
-def mutate(nlp, population, mutate_func, mutation_rate=0.5):
+def mutate(nlp, population, mutate_func, objective_func, mutation_rate=0.5):
     """Mutates a member of the population using mutate_func with probability mutation_rate 
     """
     population_mut = []
@@ -16,6 +16,8 @@ def mutate(nlp, population, mutate_func, mutation_rate=0.5):
         offspring = member
         if rand.uniform(0, 1) <= mutation_rate:
             offspring = mutate_func(nlp, member)
+            if objective_func(offspring) < objective_func(member):
+                offspring = member
         population_mut.append(offspring)
     return population_mut
 

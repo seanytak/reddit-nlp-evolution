@@ -3,13 +3,13 @@ import spacy
 from evo_mutation import mutate, mutate_synonym, mutate_token_synonym
 from evo_objective import objective
 from evo_recombination import recombine, recombine_words
-from evo_selection import fitness_proportional_selection
+from evo_selection import selection, elitism_selection, fitness_proportional_selection
 
 
 def evolve(original_text: str, n: int = 25, max_generations: int = 35):
     nlp = spacy.load('en_core_web_sm')
 
-    def fitness_objective(member):
+    def f_objective(member):
         return objective(nlp, member, original_text)
 
     # Initialize Population
@@ -26,13 +26,13 @@ def evolve(original_text: str, n: int = 25, max_generations: int = 35):
     while generations < max_fitness_generation * 2 and generations < max_generations:
         generations += 1
         print(f'Recombining for Generation: {generations}')
-        population = recombine(nlp, population, recombine_words)
+        population = recombine(nlp, population, recombine_words, f_objective)
         print(f'Mutating for Generation: {generations}')
-        population = mutate(nlp, population, mutate_token_synonym)
+        population = mutate(nlp, population, mutate_token_synonym, f_objective)
 
         print(f'Selection for Generation: {generations}')
-        population, population_fit = fitness_proportional_selection(population,
-                                                    fitness_objective)
+        population, population_fit = selection(population, f_objective, elitism_selection)
+        # population, population_fit = fitness_proportional_selection(population, fitness_objective)
         
         # population_fit = [fitness_objective(member) for member in population]
         best_idx = 0

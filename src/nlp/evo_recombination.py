@@ -7,7 +7,7 @@ import language_check
 import numpy as np
 import pandas as pd
 
-def recombine(nlp, population, recombine_func, recombination_rate=0.05):
+def recombine(nlp, population, recombine_func, objective_func, recombination_rate=0.05):
     """Mutates a member of the population using mutate_func with probability mutation_rate 
     """
     population_mut = []
@@ -15,6 +15,8 @@ def recombine(nlp, population, recombine_func, recombination_rate=0.05):
         offspring = member
         if rand.uniform(0, 1) <= recombination_rate:
             offspring = recombine_func(nlp, member, population[rand.randrange(0, len(population))])
+            if objective_func(offspring) < objective_func(member):
+                offspring = member
         population_mut.append(offspring)
     return population_mut
 
@@ -24,6 +26,8 @@ def recombine_words(nlp, parent_one: str, parent_two: str):
     xo_one = rand.randrange(0, len(words_two))
     xo_two = rand.randrange(0, len(words_two))
     for i in range(min(xo_one, xo_two), max(xo_one, xo_two)):
+        if i >= len(words_one):
+            break
         words_one[i] = words_two[i]
     return ' '.join(words_one)
 

@@ -1,0 +1,1460 @@
+Selection for Generation: 40
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+4 19
+
+        Generation: 40
+        Best: 0.5859131985364037 | calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention
+        Worst: 0.37799186948249963 | figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+        Mean: 0.49603293055558356
+        Population: ['Computers are a really utilitarian twist to constitute fast, reliable, dependable without computation intervention', "estimator warpaint an authentically useful device to shoot flying unquestionable computations' calculation computing workout", 'information_processing_system is a very utilitarian plait to brawl tight reliable, computations without computation computing', 'Computers is amp very useful device to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian pervert to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to piss fast, reliable, computations without computing intervention', 'Computers follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention', 'information_processing_system comprise A very useful widget to cause loyal reliable, honest true genuine', 'Computers personify A very useful twist to realism fast reliable computations without human', 'information_processing_system makeup a very useful twist to piss quick reliable, computations without human intervention', 'figure monetary_value ampere really utilitarian device to crystalise fast, reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention', 'frame is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers are A genuinely utilitarian device to race tight reliable, authentic without human intervention', 'Computers is a really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really useful device to gain fast, reliable, reliable without honest intervention', 'information_processing_system are A very futile device to defecate libertine reliable, computations computation figuring calculate', 'calculate makeup A very useful gizmo to fix loyal reliable, true without computation intervention', 'figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention', 'information_processing_system are a really utilitarian twist to constitute fast, reliable, true without human intervention', 'estimator warpaint A really unavailing gimmick to piss tight honorable computations without computing intervention', 'data_processor are A genuinely futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a very futile twist to make fast, reliable, honest without human human_being', 'computing_device be a really futile device to pull_in firm reliable, computations without computation intervention', 'computer exists A really utilitarian gimmick to make fast, reliable, computations without human intervention', 'Computers part A very useful twist to drive fast, reliable, dependable without rightful intervention', 'Computers play_along a truly useful thingummy to make fast, reliable, true without dead_on_target intervention', 'estimator is a very utilitarian device to shuffle tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'computer is An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A very useful twist to piss quick authentic without calculation intervention', 'guess is A genuinely useful gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human man', 'reckoned is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to piddle fast, reliable, true without reliable intervention', 'reckoned makeup a very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful', 'computer represents A really useful device to shoot dissipated reliable, authentic calculation intervention', 'Computers compeer a real useful gimmick to naturalism immediate true dependable without respectable intervention', 'Computers appoint A genuinely futile twist to pragmatism fast reliable, reliable honest reliable intervention', "computing_machine cost A very utilitarian device to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers are a very useful device to take put_down true computations without reckoning intercession', 'calculator is a really futile device to pull_in firm reliable, computations without figuring intervention', 'information_processing_system be a really utilitarian twist to take fast, reliable, authentic without authentic intervention', 'figure be a very utilitarian device to wee fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear fast, reliable, authentic without human intervention', 'information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without figuring intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke intervention", 'computing_machine are amp very utilitarian turn_of_events to get fast, reliable, reliable without rightful intervention', 'information_processing_system is a really futile twist to make loyal dependable computations without human intervention', 'figure is a very unavailing gimmick to piss tight honest computations without computation intercession', 'computer represents a really utilitarian gimmick to piss quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honest computations without computation intervention', 'figure is A really useful whatchamacallum to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful twist to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make fast, reliable, dependable figuring human fancy', 'Computers live A really utilitarian twist to fare riotous reliable, authentic without computation intervention', 'information_processing_system follow a really ineffectual twist to realism fast, reliable, authentic without reckoning intervention', 'suppose represents A very useful device to muddle fast, reliable, dependable without reliable honest', 'information_processing_system survive adenine really sleeveless gimmick to realism fast reliable authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations without reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to puddle fast dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'data_processor are an actually utilitarian gimmick to make firm reliable figuring without human intervention', 'estimator cost a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very useful gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful gizmo to constitute loyal fair without human treatment', 'Computers follow a very utilitarian device to crystalline loyal reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine makeup a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in firm reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate lade true computing figure human intervention']
+
+Recombining for Generation: 41
+Mutating for Generation: 41
+Chosen Word: Computers | Part-of-Speech: NOUN
+Trying Replacement Word: information_processing_system | Part-of-Speech: NOUN
+information_processing_system are a really utilitarian twist to constitute fast, reliable, dependable without computation intervention
+Chosen Word: an | Part-of-Speech: DET
+Trying Replacement Word: Associate_in_Nursing | Part-of-Speech: VERB
+Trying Replacement Word: AN | Part-of-Speech: DET
+estimator warpaint AN authentically useful device to shoot flying unquestionable computations' calculation computing workout
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: identical | Part-of-Speech: ADJ
+Trying Replacement Word: very | Part-of-Speech: ADV
+Computers is amp very useful device to realism fast reliable, reliable computation calculation intervention
+calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+Computers are a really utilitarian gimmick to piss fast, reliable, computations without computing intervention
+Chosen Word: widget | Part-of-Speech: NOUN
+Trying Replacement Word: doodad | Part-of-Speech: NOUN
+information_processing_system comprise A very useful doodad to cause loyal reliable, honest true genuine
+Chosen Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: firm | Part-of-Speech: ADJ
+Computers personify A very useful twist to realism firm reliable computations without human
+Chosen Word: quick | Part-of-Speech: ADV
+Trying Replacement Word: prompt | Part-of-Speech: VERB
+Trying Replacement Word: warm | Part-of-Speech: ADJ
+Trying Replacement Word: immediate | Part-of-Speech: ADJ
+Trying Replacement Word: nimble | Part-of-Speech: ADJ
+Trying Replacement Word: speedy | Part-of-Speech: ADJ
+Trying Replacement Word: speedy | Part-of-Speech: ADJ
+Trying Replacement Word: spry | Part-of-Speech: VERB
+Trying Replacement Word: spry | Part-of-Speech: VERB
+Trying Replacement Word: straightaway | Part-of-Speech: NOUN
+Trying Replacement Word: fast | Part-of-Speech: ADV
+information_processing_system makeup a very useful twist to piss fast reliable, computations without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: selfsame | Part-of-Speech: ADJ
+Trying Replacement Word: very | Part-of-Speech: ADV
+figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: really | Part-of-Speech: ADV
+reckoned constitute a really futile twist to make fast, reliable, honest without human human_being
+Chosen Word: computing_device | Part-of-Speech: NOUN
+Trying Replacement Word: data_processor | Part-of-Speech: NOUN
+data_processor be a really futile device to pull_in firm reliable, computations without computation intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: really | Part-of-Speech: ADV
+computer exists A really utilitarian gimmick to make fast, reliable, computations without human intervention
+Chosen Word: computer | Part-of-Speech: NOUN
+Trying Replacement Word: information_processing_system | Part-of-Speech: NOUN
+information_processing_system is An actually utilitarian device to earn turbulent reliable, computations calculation human intervention
+Chosen Word: twist | Part-of-Speech: NOUN
+Trying Replacement Word: sprain | Part-of-Speech: ADV
+Trying Replacement Word: twist_around | Part-of-Speech: NOUN
+Computers makeup A very useful twist_around to piss quick authentic without calculation intervention
+Chosen Word: piddle | Part-of-Speech: VERB
+Trying Replacement Word: spend_a_penny | Part-of-Speech: ADV
+Trying Replacement Word: water | Part-of-Speech: NOUN
+Trying Replacement Word: make_water | Part-of-Speech: NOUN
+Trying Replacement Word: relieve_oneself | Part-of-Speech: PRON
+Trying Replacement Word: urinate | Part-of-Speech: VERB
+computer is amp very utilitarian whatchamacallum to urinate fast, reliable, true without reliable intervention
+Chosen Word: futile | Part-of-Speech: ADJ
+Trying Replacement Word: futile | Part-of-Speech: ADJ
+reckoned makeup a very futile worm to make fast, dependable without human intervention
+computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful
+calculator is a really futile device to pull_in firm reliable, computations without figuring intervention
+Chosen Word: information_processing_system | Part-of-Speech: NOUN
+Trying Replacement Word: computing_machine | Part-of-Speech: NOUN
+computing_machine be a really utilitarian twist to take fast, reliable, authentic without authentic intervention
+Chosen Word: get | Part-of-Speech: VERB
+Trying Replacement Word: capture | Part-of-Speech: VERB
+computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without rightful intervention
+Chosen Word: futile | Part-of-Speech: ADJ
+Trying Replacement Word: sleeveless | Part-of-Speech: ADJ
+information_processing_system is a really sleeveless twist to make loyal dependable computations without human intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: a | Part-of-Speech: DET
+computer represents a really utilitarian gimmick to piss quick reliable, computations without human human_being
+figure warpaint A truly useful twist to stool exuberant honest reckoning without human intervention
+Chosen Word: fare | Part-of-Speech: VERB
+Trying Replacement Word: menu | Part-of-Speech: VERB
+Computers live A really utilitarian twist to menu riotous reliable, authentic without computation intervention
+information_processing_system follow a really ineffectual twist to realism fast, reliable, authentic without reckoning intervention
+information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable
+Chosen Word: are | Part-of-Speech: VERB
+Trying Replacement Word: embody | Part-of-Speech: VERB
+data_processor embody an actually utilitarian gimmick to make firm reliable figuring without human intervention
+Chosen Word: estimator | Part-of-Speech: NOUN
+Trying Replacement Word: figurer | Part-of-Speech: NOUN
+figurer cost a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention
+calculator represents a very useful gizmo to constitute loyal fair without human treatment
+Chosen Word: lade | Part-of-Speech: ADJ
+Trying Replacement Word: laden | Part-of-Speech: ADJ
+computer embodies a very utilitarian gimmick to stimulate laden true computing figure human intervention
+Selection for Generation: 41
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+58 19
+
+        Generation: 41
+        Best: 0.5927354463083948 | Computers live A really utilitarian twist to menu riotous reliable, authentic without computation intervention
+        Worst: 0.37799186948249963 | figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+        Mean: 0.49620261506938507
+        Population: ['information_processing_system are a really utilitarian twist to constitute fast, reliable, dependable without computation intervention', "estimator warpaint AN authentically useful device to shoot flying unquestionable computations' calculation computing workout", 'information_processing_system is a very utilitarian plait to brawl tight reliable, computations without computation computing', 'Computers is amp very useful device to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian pervert to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to piss fast, reliable, computations without computing intervention', 'Computers follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention', 'information_processing_system comprise A very useful doodad to cause loyal reliable, honest true genuine', 'Computers personify A very useful twist to realism firm reliable computations without human', 'information_processing_system makeup a very useful twist to piss fast reliable, computations without human intervention', 'figure monetary_value ampere really utilitarian device to crystalise fast, reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention', 'frame is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers are A genuinely utilitarian device to race tight reliable, authentic without human intervention', 'Computers is a really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really useful device to gain fast, reliable, reliable without honest intervention', 'information_processing_system are A very futile device to defecate libertine reliable, computations computation figuring calculate', 'calculate makeup A very useful gizmo to fix loyal reliable, true without computation intervention', 'figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention', 'information_processing_system are a really utilitarian twist to constitute fast, reliable, true without human intervention', 'estimator warpaint A really unavailing gimmick to piss tight honorable computations without computing intervention', 'data_processor are A genuinely futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a really futile twist to make fast, reliable, honest without human human_being', 'data_processor be a really futile device to pull_in firm reliable, computations without computation intervention', 'computer exists A really utilitarian gimmick to make fast, reliable, computations without human intervention', 'Computers part A very useful twist to drive fast, reliable, dependable without rightful intervention', 'Computers play_along a truly useful thingummy to make fast, reliable, true without dead_on_target intervention', 'estimator is a very utilitarian device to shuffle tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'information_processing_system is An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A very useful twist_around to piss quick authentic without calculation intervention', 'guess is A genuinely useful gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human man', 'reckoned is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate fast, reliable, true without reliable intervention', 'reckoned makeup a very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful', 'computer represents A really useful device to shoot dissipated reliable, authentic calculation intervention', 'Computers compeer a real useful gimmick to naturalism immediate true dependable without respectable intervention', 'Computers appoint A genuinely utilitarian twist to constitute fast, reliable, dependable without reliable intervention', "computing_machine cost A very utilitarian device to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers are a very useful device to take put_down true computations without reckoning intercession', 'calculator is a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really utilitarian twist to take fast, reliable, authentic without authentic intervention', 'figure be a very utilitarian device to wee fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear fast, reliable, authentic without human intervention', 'information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without figuring intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke intervention", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without rightful intervention', 'information_processing_system is a really sleeveless twist to make loyal dependable computations without human intervention', 'figure is a very unavailing gimmick to piss tight honest computations without computation intercession', 'computer represents a really utilitarian gimmick to piss quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honest computations without computation intervention', 'figure is A really useful whatchamacallum to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful twist to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make fast, reliable, dependable figuring human fancy', 'Computers live A really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really ineffectual twist to realism fast, reliable, authentic without reckoning intervention', 'suppose represents A very useful device to muddle fast, reliable, dependable without reliable honest', 'information_processing_system survive adenine really sleeveless gimmick to realism fast reliable authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations without reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to puddle fast dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'data_processor embody an actually utilitarian gimmick to make firm reliable figuring without human intervention', 'figure cost a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very useful gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful gizmo to constitute loyal fair without human treatment', 'Computers follow a very utilitarian device to crystalline loyal reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine makeup a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in firm reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate laden true computing figure human intervention']
+
+Recombining for Generation: 42
+Mutating for Generation: 42
+Chosen Word: information_processing_system | Part-of-Speech: NOUN
+Trying Replacement Word: computing_machine | Part-of-Speech: NOUN
+computing_machine are a really utilitarian twist to constitute fast, reliable, dependable without computation intervention
+Chosen Word: calculation | Part-of-Speech: NOUN
+Trying Replacement Word: calculation | Part-of-Speech: NOUN
+estimator warpaint AN authentically useful device to shoot flying unquestionable computations' calculation deliberation workout
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: authentic | Part-of-Speech: ADJ
+information_processing_system is a very utilitarian plait to brawl tight authentic computations without computation computing
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+Computers is amp very utilitarian device to realism fast reliable, reliable computation calculation intervention
+Chosen Word: pervert | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession
+information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: axerophthol | Part-of-Speech: VERB
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADV
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: A | Part-of-Speech: DET
+information_processing_system comprise A very useful doodad to cause fast reliable, honest true genuine
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: calculation | Part-of-Speech: NOUN
+Computers personify A very useful twist to realism firm reliable calculation without human
+frame is a really useful device to reach fast reliable, computations reckoning human intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: ADJ
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: type_A | Part-of-Speech: VERB
+Trying Replacement Word: amp | Part-of-Speech: ADJ
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADV
+Trying Replacement Word: A | Part-of-Speech: DET
+Computers is A really useful device to puddle fast reliable, honest without human intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utile | Part-of-Speech: ADJ
+suppose be A really utile device to gain fast, reliable, reliable without honest intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: very | Part-of-Speech: ADV
+information_processing_system are A very futile device to defecate libertine reliable, computations computation figuring calculate
+calculate makeup A very useful gizmo to fix loyal reliable, true without computation intervention
+figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: profligate | Part-of-Speech: ADJ
+Trying Replacement Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: debauched | Part-of-Speech: VERB
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: tight | Part-of-Speech: ADJ
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: profligate | Part-of-Speech: ADJ
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+information_processing_system are a really utilitarian twist to constitute truehearted reliable, true without human intervention
+Chosen Word: honorable | Part-of-Speech: ADJ
+Trying Replacement Word: estimable | Part-of-Speech: ADJ
+estimator warpaint A really unavailing gimmick to piss tight estimable computations without computing intervention
+Chosen Word: rush | Part-of-Speech: VERB
+Trying Replacement Word: rush | Part-of-Speech: VERB
+data_processor are A genuinely futile gimmick to rush tight reliable, computations without human intervention
+data_processor be a really futile device to pull_in firm reliable, computations without computation intervention
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+Computers part A very useful twist to drive fast, reliable, dependable without good intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+estimator is a very utilitarian device to shuffle tight reliable, computations without human man
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+reckoned is A real useful gimmick to clear_up riotous honest computations without human man
+Chosen Word: reckoned | Part-of-Speech: VERB
+Trying Replacement Word: bet | Part-of-Speech: NOUN
+Trying Replacement Word: opine | Part-of-Speech: NOUN
+Trying Replacement Word: depend | Part-of-Speech: VERB
+depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention
+computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful
+Chosen Word: compeer | Part-of-Speech: VERB
+Trying Replacement Word: peer | Part-of-Speech: VERB
+Computers peer a real useful gimmick to naturalism immediate true dependable without respectable intervention
+Chosen Word: constitute | Part-of-Speech: VERB
+Trying Replacement Word: comprise | Part-of-Speech: VERB
+Computers appoint A genuinely utilitarian twist to comprise fast, reliable, dependable without reliable intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utile | Part-of-Speech: ADJ
+Computers are a very utile device to take put_down true computations without reckoning intercession
+Chosen Word: is | Part-of-Speech: VERB
+Trying Replacement Word: exist | Part-of-Speech: VERB
+calculator exist a really futile device to pull_in firm reliable, computations without figuring intervention
+reckoned represent adenine very futile nubbins to clear fast, reliable, authentic without human intervention
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without dependable intervention
+Chosen Word: make | Part-of-Speech: VERB
+Trying Replacement Word: take | Part-of-Speech: VERB
+information_processing_system is a really sleeveless twist to take loyal dependable computations without human intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+computer represents a really useful gimmick to piss quick reliable, computations without human human_being
+Chosen Word: twist | Part-of-Speech: NOUN
+Trying Replacement Word: bend | Part-of-Speech: NOUN
+figure warpaint A truly useful bend to stool exuberant honest reckoning without human intervention
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+Computers live a really utilitarian gimmick to make fast, reliable, dependable figuring dependable fancy
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: rattling | Part-of-Speech: VERB
+Trying Replacement Word: selfsame | Part-of-Speech: ADJ
+Trying Replacement Word: very | Part-of-Speech: ADV
+suppose represents A very useful device to muddle fast, reliable, dependable without reliable honest
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: immobile | Part-of-Speech: VERB
+Trying Replacement Word: libertine | Part-of-Speech: NOUN
+Trying Replacement Word: debauched | Part-of-Speech: VERB
+Trying Replacement Word: degenerate | Part-of-Speech: VERB
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: degenerate | Part-of-Speech: VERB
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: profligate | Part-of-Speech: VERB
+Trying Replacement Word: degenerate | Part-of-Speech: VERB
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+information_processing_system survive adenine really sleeveless gimmick to realism quick reliable authentic reliable intervention
+reckoned are A very useful twist to reality fast reliable, computations without reckoning calculation
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: very | Part-of-Speech: ADV
+computing_device be A very useful device to puddle fast dependable computations honest reliable reckoning
+Chosen Word: human | Part-of-Speech: ADJ
+Trying Replacement Word: man | Part-of-Speech: NOUN
+Trying Replacement Word: human_being | Part-of-Speech: VERB
+Trying Replacement Word: human_being | Part-of-Speech: VERB
+Trying Replacement Word: man | Part-of-Speech: NOUN
+Trying Replacement Word: man | Part-of-Speech: NOUN
+Trying Replacement Word: human | Part-of-Speech: ADJ
+data_processor embody an actually utilitarian gimmick to make firm reliable figuring without human intervention
+Chosen Word: cost | Part-of-Speech: VERB
+Trying Replacement Word: price | Part-of-Speech: NOUN
+Trying Replacement Word: be | Part-of-Speech: VERB
+figure be a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention
+Chosen Word: makeup | Part-of-Speech: NOUN
+Trying Replacement Word: war_paint | Part-of-Speech: NOUN
+imagine war_paint a very useful thingummy to make libertine reliable, computations without human
+Computers equal a very useful device to pull_in firm reliable, computations without computation
+Chosen Word: human | Part-of-Speech: NOUN
+Trying Replacement Word: human | Part-of-Speech: NOUN
+computer embodies a very utilitarian gimmick to stimulate laden true computing figure human intervention
+Selection for Generation: 42
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+58 19
+
+        Generation: 42
+        Best: 0.5927354463083948 | Computers live A really utilitarian twist to menu riotous reliable, authentic without computation intervention
+        Worst: 0.37799186948249963 | figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+        Mean: 0.49752050214991583
+        Population: ['computing_machine are a really utilitarian twist to constitute fast, reliable, dependable without computation intervention', "estimator warpaint AN authentically useful device to shoot flying unquestionable computations' calculation deliberation workout", 'information_processing_system is a very utilitarian plait to brawl tight authentic computations without computation computing', 'Computers is amp very utilitarian device to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention', 'information_processing_system comprise A very useful doodad to cause fast reliable, honest true genuine', 'Computers personify A very useful twist to realism firm reliable calculation without human', 'information_processing_system makeup a very useful twist to piss fast reliable, computations without human intervention', 'figure monetary_value ampere really utilitarian device to crystalise fast, reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention', 'frame is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers are A genuinely utilitarian device to race tight reliable, authentic without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really futile device to gain fast, reliable, reliable without honest intervention', 'information_processing_system are A very futile device to defecate libertine reliable, computations computation figuring calculate', 'calculate makeup A very useful gizmo to fix loyal reliable, true without computation intervention', 'figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention', 'information_processing_system are a really utilitarian twist to constitute truehearted reliable, true without human intervention', 'estimator warpaint A really unavailing gimmick to piss tight estimable computations without computing intervention', 'data_processor are A genuinely futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a really futile twist to make fast, reliable, honest without human human_being', 'data_processor be a really futile device to pull_in firm reliable, computations without computation intervention', 'computer exists A really utilitarian gimmick to make fast, reliable, computations without human intervention', 'Computers part A very useful twist to drive fast, reliable, dependable without good intervention', 'Computers play_along a truly useful thingummy to make fast, reliable, true without dead_on_target intervention', 'estimator is a very utilitarian device to shuffle tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'information_processing_system is An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A very useful twist_around to piss quick authentic without calculation intervention', 'guess is A genuinely useful gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human man', 'depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate fast, reliable, true without reliable intervention', 'reckoned makeup a very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful', 'computer represents A really useful device to shoot dissipated reliable, authentic calculation intervention', 'Computers peer a real useful gimmick to naturalism immediate true dependable without respectable intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast, reliable, dependable without reliable intervention', "computing_machine cost A very utilitarian device to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers are a very futile device to take put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really utilitarian twist to take fast, reliable, authentic without authentic intervention', 'figure be a very utilitarian device to wee fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear fast, reliable, authentic without human intervention', 'information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke intervention", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without rightful intervention', 'information_processing_system is a really sleeveless twist to take loyal dependable computations without human intervention', 'figure is a very unavailing gimmick to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to piss quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honest computations without computation intervention', 'figure is A really useful whatchamacallum to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful bend to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make fast, reliable, dependable figuring dependable fancy', 'Computers live A really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really useful device to puddle fast dependable computations honest reliable intervention', 'suppose represents A very useful device to muddle fast, reliable, dependable without reliable honest', 'information_processing_system survive adenine really sleeveless gimmick to realism quick reliable authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations without reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to puddle fast dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'data_processor embody an actually utilitarian gimmick to make firm reliable figuring without human intervention', 'figure be a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very useful gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful gizmo to constitute loyal fair without human treatment', 'Computers follow a very utilitarian device to crystalline loyal reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine warpaint a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in firm reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate laden true computing figure human intervention']
+
+Recombining for Generation: 43
+Mutating for Generation: 43
+Chosen Word: authentic | Part-of-Speech: ADJ
+Trying Replacement Word: bona_fide | Part-of-Speech: ADJ
+information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing
+Chosen Word: authentic | Part-of-Speech: ADJ
+Trying Replacement Word: authentic | Part-of-Speech: ADJ
+calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention
+Chosen Word: information_processing_system | Part-of-Speech: NOUN
+Trying Replacement Word: information_processing_system | Part-of-Speech: NOUN
+information_processing_system comprise A very useful doodad to cause fast reliable, honest true genuine
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+Computers personify A very useful twist to realism firm dependable calculation without human
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+information_processing_system makeup a very utilitarian twist to piss fast reliable, computations without human intervention
+Chosen Word: reckoning | Part-of-Speech: VERB
+Trying Replacement Word: count_on | Part-of-Speech: NOUN
+Trying Replacement Word: cipher | Part-of-Speech: ADJ
+Trying Replacement Word: consider | Part-of-Speech: NOUN
+Trying Replacement Word: reckoning | Part-of-Speech: VERB
+figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention
+Computers lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+Computers is A really useful device to puddle fast reliable, honest without human intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: in_truth | Part-of-Speech: ADJ
+Trying Replacement Word: really | Part-of-Speech: ADV
+suppose be A really futile device to gain fast, reliable, reliable without honest intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: identical | Part-of-Speech: ADJ
+Trying Replacement Word: really | Part-of-Speech: ADV
+information_processing_system are A really futile device to defecate libertine reliable, computations computation figuring calculate
+Chosen Word: constitute | Part-of-Speech: VERB
+Trying Replacement Word: comprise | Part-of-Speech: VERB
+information_processing_system are a really utilitarian twist to comprise truehearted reliable, true without human intervention
+reckoned constitute a really futile twist to make fast, reliable, honest without human human_being
+Chosen Word: futile | Part-of-Speech: ADJ
+Trying Replacement Word: bootless | Part-of-Speech: ADJ
+data_processor be a really bootless device to pull_in firm reliable, computations without computation intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: genuinely | Part-of-Speech: ADV
+computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention
+Chosen Word: Computers | Part-of-Speech: NOUN
+Trying Replacement Word: computer | Part-of-Speech: NOUN
+computer part A very useful twist to drive fast, reliable, dependable without good intervention
+Chosen Word: Computers | Part-of-Speech: NOUN
+Trying Replacement Word: figurer | Part-of-Speech: NOUN
+figurer play_along a truly useful thingummy to make fast, reliable, true without dead_on_target intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADP
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADP
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADP
+Trying Replacement Word: a | Part-of-Speech: DET
+estimator is a very utilitarian device to shuffle tight reliable, computations without human man
+Chosen Word: is | Part-of-Speech: VERB
+Trying Replacement Word: constitute | Part-of-Speech: VERB
+guess constitute A genuinely useful gimmick to make excessive honest reckoning without computation figure
+depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+computer represents A really useful twist to shoot dissipated reliable, authentic calculation intervention
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+computing_machine cost A very utilitarian twist to puddle fast steady-going computations' computation
+Chosen Word: are | Part-of-Speech: VERB
+Trying Replacement Word: follow | Part-of-Speech: VERB
+Computers follow a very futile device to take put_down true computations without reckoning intercession
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+computing_machine be a really utilitarian twist to take fast, reliable, reliable without authentic intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: rattling | Part-of-Speech: VERB
+Trying Replacement Word: selfsame | Part-of-Speech: VERB
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: very | Part-of-Speech: ADV
+computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without rightful intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: genuinely | Part-of-Speech: ADV
+information_processing_system is a genuinely sleeveless twist to take loyal dependable computations without human intervention
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: whatsis | Part-of-Speech: NOUN
+figure is a very unavailing whatsis to piss tight honest computations without computation intercession
+Chosen Word: piss | Part-of-Speech: VERB
+Trying Replacement Word: pee | Part-of-Speech: VERB
+computer represents a really useful gimmick to pee quick reliable, computations without human human_being
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+Computers live a really utilitarian gimmick to make fast, reliable, dependable figuring secure fancy
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention
+Chosen Word: represents | Part-of-Speech: VERB
+Trying Replacement Word: stage | Part-of-Speech: NOUN
+Trying Replacement Word: defend | Part-of-Speech: NOUN
+Trying Replacement Word: be | Part-of-Speech: VERB
+suppose be A very useful device to muddle fast, reliable, dependable without reliable honest
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: fast | Part-of-Speech: ADV
+reckoned are A very useful twist to reality fast reliable, computations without reckoning calculation
+Chosen Word: bona_fide | Part-of-Speech: ADJ
+Trying Replacement Word: bona_fide | Part-of-Speech: ADJ
+information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+calculator represents A very utilitarian gimmick to fare tight average computing without veritable intervention
+Chosen Word: fair | Part-of-Speech: NOUN
+Trying Replacement Word: mediocre | Part-of-Speech: NOUN
+calculator represents a very useful gizmo to constitute loyal mediocre without human treatment
+Chosen Word: true | Part-of-Speech: ADJ
+Trying Replacement Word: unfeigned | Part-of-Speech: ADJ
+Computers follow a genuinely useful gizmo to make_believe stiff unfeigned calculation human intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utile | Part-of-Speech: ADV
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+imagine warpaint a very useful thingummy to make libertine reliable, computations without human
+Chosen Word: firm | Part-of-Speech: ADJ
+Trying Replacement Word: unwaveringly | Part-of-Speech: ADV
+Trying Replacement Word: unwaveringly | Part-of-Speech: ADV
+Trying Replacement Word: solid | Part-of-Speech: ADJ
+Computers equal a very useful device to pull_in solid reliable, computations without computation
+Chosen Word: computing | Part-of-Speech: NOUN
+Trying Replacement Word: compute | Part-of-Speech: NOUN
+computer embodies a very utilitarian gimmick to stimulate laden true compute figure human intervention
+Selection for Generation: 43
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+36 14
+
+        Generation: 43
+        Best: 0.6259936510780411 | depend is an very futile worm to make fast, dependable without human intervention
+        Worst: 0.3628772015362782 | Computers lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+        Mean: 0.4988262921962502
+        Population: ['computing_machine are a really utilitarian twist to constitute fast, reliable, dependable without computation intervention', "estimator warpaint AN authentically useful device to shoot flying unquestionable computations' calculation deliberation workout", 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian device to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention', 'information_processing_system comprise A very useful doodad to cause fast reliable, honest true genuine', 'Computers personify A very useful twist to realism firm dependable calculation without human', 'information_processing_system makeup a very utilitarian twist to piss fast reliable, computations without human intervention', 'figure monetary_value ampere really utilitarian device to crystalise fast, reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention', 'frame is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really futile device to gain fast, reliable, reliable without honest intervention', 'information_processing_system are A really futile device to defecate libertine reliable, computations computation figuring calculate', 'calculate makeup A very useful gizmo to fix loyal reliable, true without computation intervention', 'figure lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention', 'information_processing_system are a really utilitarian twist to comprise truehearted reliable, true without human intervention', 'estimator warpaint A really unavailing gimmick to piss tight estimable computations without computing intervention', 'data_processor are A genuinely futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a really futile twist to make fast, reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations without computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A very useful twist to drive fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to make fast, reliable, true without dead_on_target intervention', 'estimator is a very utilitarian device to shuffle tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'information_processing_system is An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A very useful twist_around to piss quick authentic without calculation intervention', 'guess constitute A genuinely useful gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human man', 'depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate fast, reliable, true without reliable intervention', 'depend is an very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful', 'computer represents A really useful twist to shoot dissipated reliable, authentic calculation intervention', 'Computers peer a real useful gimmick to naturalism immediate true dependable without respectable intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast, reliable, dependable without reliable intervention', "computing_machine cost A very utilitarian twist to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to take put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really utilitarian twist to take fast, reliable, reliable without authentic intervention', 'figure be a very utilitarian device to wee fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear fast, reliable, authentic without human intervention', 'information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke intervention", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without rightful intervention', 'information_processing_system is a genuinely sleeveless twist to take loyal dependable computations without human intervention', 'figure is a very unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honest computations without computation intervention', 'figure is A really useful whatchamacallum to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful bend to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make fast, reliable, dependable figuring secure fancy', 'Computers live A really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'suppose be A very useful device to muddle fast, reliable, dependable without reliable honest', 'information_processing_system survive adenine really sleeveless gimmick to realism quick reliable authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations without reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to puddle fast dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'data_processor embody an actually utilitarian gimmick to make firm reliable figuring without human intervention', 'figure be a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very utilitarian gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful gizmo to constitute loyal mediocre without human treatment', 'reckoned are A very useful twist to reality fast reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff unfeigned calculation human intervention', 'imagine warpaint a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate laden true compute figure human intervention']
+
+Recombining for Generation: 44
+Mutating for Generation: 44
+Chosen Word: twist | Part-of-Speech: NOUN
+Trying Replacement Word: twist_around | Part-of-Speech: NOUN
+computing_machine are a really utilitarian twist_around to constitute fast, reliable, dependable without computation intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utile | Part-of-Speech: ADJ
+estimator warpaint AN authentically utile device to shoot flying unquestionable computations' calculation deliberation workout
+information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing
+calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention
+Chosen Word: cause | Part-of-Speech: VERB
+Trying Replacement Word: grounds | Part-of-Speech: NOUN
+Trying Replacement Word: induce | Part-of-Speech: VERB
+information_processing_system comprise A very useful doodad to induce fast reliable, honest true genuine
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+Computers personify A very useful twist to realism firm true calculation without human
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: dissolute | Part-of-Speech: NOUN
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: fasting | Part-of-Speech: VERB
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: firm | Part-of-Speech: NOUN
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: debauched | Part-of-Speech: VERB
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: immobile | Part-of-Speech: NOUN
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: degenerate | Part-of-Speech: NOUN
+Trying Replacement Word: flying | Part-of-Speech: VERB
+figure monetary_value ampere really utilitarian device to crystalise flying reliable, computations without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: identical | Part-of-Speech: ADJ
+Trying Replacement Word: selfsame | Part-of-Speech: VERB
+Trying Replacement Word: very | Part-of-Speech: ADV
+figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+frame is a really useful device to reach fast reliable, computations reckoning human intervention
+Chosen Word: are | Part-of-Speech: VERB
+Trying Replacement Word: constitute | Part-of-Speech: VERB
+information_processing_system constitute A really futile device to defecate libertine reliable, computations computation figuring calculate
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: thingamajig | Part-of-Speech: NOUN
+figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention
+Chosen Word: genuinely | Part-of-Speech: ADV
+Trying Replacement Word: truly | Part-of-Speech: ADV
+data_processor are A truly futile gimmick to rush tight reliable, computations without human intervention
+computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: really | Part-of-Speech: ADV
+computer part A really useful twist to drive fast, reliable, dependable without good intervention
+Chosen Word: make | Part-of-Speech: VERB
+Trying Replacement Word: pretend | Part-of-Speech: VERB
+figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention
+Chosen Word: intervention | Part-of-Speech: NOUN
+Trying Replacement Word: intervention | Part-of-Speech: NOUN
+Computers makeup A very useful twist_around to piss quick authentic without calculation intervention
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: amp | Part-of-Speech: ADJ
+Trying Replacement Word: A | Part-of-Speech: DET
+reckoned is A real useful gimmick to clear_up riotous honest computations without human man
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: libertine | Part-of-Speech: NOUN
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: degraded | Part-of-Speech: VERB
+Trying Replacement Word: fasting | Part-of-Speech: VERB
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: firm | Part-of-Speech: NOUN
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: profligate | Part-of-Speech: NOUN
+Trying Replacement Word: immobile | Part-of-Speech: NOUN
+Trying Replacement Word: immobile | Part-of-Speech: NOUN
+Trying Replacement Word: flying | Part-of-Speech: VERB
+computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention
+depend is an very futile worm to make fast, dependable without human intervention
+Computers peer a real useful device to take immediate true dependable without respectable intervention
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: firm | Part-of-Speech: ADJ
+Trying Replacement Word: degenerate | Part-of-Speech: NOUN
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: immobile | Part-of-Speech: ADP
+Trying Replacement Word: immobile | Part-of-Speech: ADP
+Trying Replacement Word: profligate | Part-of-Speech: VERB
+Trying Replacement Word: fast | Part-of-Speech: ADV
+Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable without reliable intervention
+Chosen Word: take | Part-of-Speech: VERB
+Trying Replacement Word: fill | Part-of-Speech: VERB
+Computers follow a very futile device to fill put_down true computations without reckoning intercession
+calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+computing_machine be a really useful twist to take fast, reliable, reliable without authentic intervention
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: tight | Part-of-Speech: ADJ
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: libertine | Part-of-Speech: NOUN
+Trying Replacement Word: dissolute | Part-of-Speech: NOUN
+Trying Replacement Word: degraded | Part-of-Speech: VERB
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: degraded | Part-of-Speech: VERB
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: firm | Part-of-Speech: NOUN
+Trying Replacement Word: dissolute | Part-of-Speech: NOUN
+reckoned represent adenine very futile nubbins to clear dissolute reliable, authentic without human intervention
+information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without dependable intervention
+Computers makeup A very fruitless twist to defecate manipulate regular computations' choke intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without authentic intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: type_A | Part-of-Speech: NOUN
+Trying Replacement Word: angstrom | Part-of-Speech: ADJ
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: A | Part-of-Speech: DET
+information_processing_system is A genuinely sleeveless twist to take loyal dependable computations without human intervention
+speculate is a very futile device to score fast honest computations without computation intervention
+Chosen Word: whatchamacallum | Part-of-Speech: NOUN
+Trying Replacement Word: thingumajig | Part-of-Speech: NOUN
+figure is A really useful thingumajig to take_a_shit degenerate reliable, reliable without computation homo
+Chosen Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: truehearted | Part-of-Speech: VERB
+Trying Replacement Word: firm | Part-of-Speech: ADJ
+Computers live a really utilitarian gimmick to make firm reliable, dependable figuring secure fancy
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computations | Part-of-Speech: NOUN
+reckoned are A very useful twist to reality fast reliable, computations computation reckoning calculation
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: device | Part-of-Speech: NOUN
+information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable
+Chosen Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+computing_device be A very useful device to puddle quick dependable computations honest reliable reckoning
+Chosen Word: data_processor | Part-of-Speech: NOUN
+Trying Replacement Word: computer | Part-of-Speech: NOUN
+computer embody an actually utilitarian gimmick to make firm reliable figuring without human intervention
+Chosen Word: gizmo | Part-of-Speech: NOUN
+Trying Replacement Word: appliance | Part-of-Speech: NOUN
+calculator represents a very useful appliance to constitute loyal mediocre without human treatment
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: amp | Part-of-Speech: NOUN
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: ADV
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADV
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: vitamin_A | Part-of-Speech: ADV
+Trying Replacement Word: amp | Part-of-Speech: NOUN
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: type_A | Part-of-Speech: VERB
+Trying Replacement Word: type_A | Part-of-Speech: VERB
+Trying Replacement Word: amp | Part-of-Speech: NOUN
+Trying Replacement Word: angstrom | Part-of-Speech: PROPN
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: ADV
+Trying Replacement Word: a | Part-of-Speech: DET
+reckoned are a very useful twist to reality fast reliable, computations without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: identical | Part-of-Speech: ADJ
+Trying Replacement Word: very | Part-of-Speech: ADV
+computer embodies a very utilitarian gimmick to stimulate laden true compute figure human intervention
+Selection for Generation: 44
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+28 14
+
+        Generation: 44
+        Best: 0.5894845707392461 | estimator are A genuinely futile gimmick to rush tight reliable, computations without human man
+        Worst: 0.3628772015362782 | Computers lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention
+        Mean: 0.4995855682208406
+        Population: ['computing_machine are a really utilitarian twist_around to constitute fast, reliable, dependable without computation intervention', "estimator warpaint AN authentically futile device to shoot flying unquestionable computations' calculation deliberation workout", 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian device to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention', 'information_processing_system comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A very useful twist to realism firm true calculation without human', 'information_processing_system makeup a very utilitarian twist to piss fast reliable, computations without human intervention', 'figure monetary_value ampere really utilitarian device to crystalise flying reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention', 'frame is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers lifespan a very useful gimmick to pretend fast, reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really futile device to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute A really futile device to defecate libertine reliable, computations computation figuring calculate', 'calculate makeup A very useful gizmo to fix loyal reliable, true without computation intervention', 'figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a really utilitarian twist to comprise truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest good computing intervention', 'data_processor are A truly futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a really futile twist to make fast, reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations without computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A really useful twist to drive fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'estimator are A genuinely futile gimmick to rush tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'information_processing_system is An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A very useful twist_around to piss quick authentic without calculation intervention', 'guess constitute A genuinely useful gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human man', 'depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention', 'depend is a very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, dependable true truthful', 'computer represents A really useful twist to shoot dissipated reliable, authentic calculation intervention', 'Computers peer a real useful device to take immediate true dependable without respectable intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable without reliable intervention', "computing_machine cost A very utilitarian twist to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, reliable without authentic intervention', 'figure be a very utilitarian device to wee fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear dissolute reliable, authentic without human intervention', 'information_processing_system are deoxyadenosine_monophosphate really utilitarian device to earn fast, reliable, honest without dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke intervention", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without authentic intervention', 'information_processing_system is A genuinely sleeveless twist to take loyal dependable computations without human intervention', 'figure is a very unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honest computations without computation intervention', 'figure is A really useful thingamajig to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful bend to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make firm reliable, dependable figuring secure fancy', 'Computers be a really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'suppose be A very useful device to muddle fast, reliable, dependable without reliable honest', 'information_processing_system survive adenine really sleeveless gimmick to realism quick reliable authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to puddle quick dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer embodies an actually utilitarian gimmick to make firm reliable figuring without human intervention', 'figure be a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very utilitarian gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to constitute loyal mediocre without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff unfeigned calculation human intervention', 'imagine warpaint a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate laden true compute figure human intervention']
+
+Recombining for Generation: 45
+Mutating for Generation: 45
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computing | Part-of-Speech: VERB
+Trying Replacement Word: computation | Part-of-Speech: NOUN
+estimator warpaint AN authentically futile device to shoot flying unquestionable computation calculation deliberation workout
+Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention
+Chosen Word: information_processing_system | Part-of-Speech: NOUN
+Trying Replacement Word: data_processor | Part-of-Speech: NOUN
+data_processor comprise A very useful doodad to induce fast reliable, honest true genuine
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: really | Part-of-Speech: ADV
+Computers personify A really useful twist to realism firm true calculation without human
+Chosen Word: piss | Part-of-Speech: VERB
+Trying Replacement Word: urinate | Part-of-Speech: VERB
+information_processing_system makeup a very utilitarian twist to urinate fast reliable, computations without human intervention
+Chosen Word: frame | Part-of-Speech: NOUN
+Trying Replacement Word: form | Part-of-Speech: NOUN
+form is a really useful device to reach fast reliable, computations reckoning human intervention
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: widget | Part-of-Speech: NOUN
+Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention
+Computers is A really useful device to puddle fast reliable, honest without human intervention
+Chosen Word: libertine | Part-of-Speech: NOUN
+Trying Replacement Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: debauched | Part-of-Speech: VERB
+Trying Replacement Word: dissolute | Part-of-Speech: NOUN
+information_processing_system constitute A really futile device to defecate dissolute reliable, computations computation figuring calculate
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+calculate makeup A very useful gizmo to fix loyal dependable true without computation intervention
+Chosen Word: truly | Part-of-Speech: ADV
+Trying Replacement Word: sincerely | Part-of-Speech: ADV
+data_processor are A sincerely futile gimmick to rush tight reliable, computations without human intervention
+Chosen Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: libertine | Part-of-Speech: NOUN
+Trying Replacement Word: fasting | Part-of-Speech: VERB
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+reckoned constitute a really futile twist to make riotous reliable, honest without human human_being
+Chosen Word: drive | Part-of-Speech: VERB
+Trying Replacement Word: motor | Part-of-Speech: NOUN
+Trying Replacement Word: take | Part-of-Speech: VERB
+computer part A really useful twist to take fast, reliable, dependable without good intervention
+Chosen Word: estimator | Part-of-Speech: NOUN
+Trying Replacement Word: computer | Part-of-Speech: NOUN
+computer are A genuinely futile gimmick to rush tight reliable, computations without human man
+Chosen Word: is | Part-of-Speech: VERB
+Trying Replacement Word: be | Part-of-Speech: VERB
+information_processing_system be An actually utilitarian device to earn turbulent reliable, computations calculation human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: real | Part-of-Speech: ADV
+Computers makeup A real useful twist_around to piss quick authentic without calculation intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utile | Part-of-Speech: ADJ
+guess constitute A genuinely utile gimmick to make excessive honest reckoning without computation figure
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: fair | Part-of-Speech: ADJ
+reckoned is A real useful gimmick to clear_up riotous fair computations without human man
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+computing_machine Be a genuinely useful twist to constitute fast, reliable, honest true truthful
+Chosen Word: take | Part-of-Speech: VERB
+Trying Replacement Word: drive | Part-of-Speech: VERB
+Computers peer a real useful device to drive immediate true dependable without respectable intervention
+Computers is a very useful device to make firm reliable, reliable without authentic intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+computing_machine be a really useful twist to take fast, reliable, true without authentic intervention
+Chosen Word: wee | Part-of-Speech: VERB
+Trying Replacement Word: bitty | Part-of-Speech: VERB
+figure be a very utilitarian device to bitty fast dependable computations true computation intervention
+Chosen Word: earn | Part-of-Speech: VERB
+Trying Replacement Word: garner | Part-of-Speech: VERB
+information_processing_system are deoxyadenosine_monophosphate really utilitarian device to garner fast, reliable, honest without dependable intervention
+Chosen Word: choke | Part-of-Speech: NOUN
+Trying Replacement Word: choke | Part-of-Speech: NOUN
+Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease
+information_processing_system is A genuinely sleeveless twist to take loyal dependable computations without human intervention
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: honorable | Part-of-Speech: ADJ
+speculate is a very futile device to score fast honorable computations without computation intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: in_truth | Part-of-Speech: PROPN
+Trying Replacement Word: genuinely | Part-of-Speech: ADV
+figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable without computation homo
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+suppose be A very useful device to muddle fast, reliable, dependable without reliable honest
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: catch | Part-of-Speech: NOUN
+information_processing_system survive adenine really sleeveless catch to realism quick reliable authentic reliable intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: really | Part-of-Speech: ADV
+information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable
+Chosen Word: puddle | Part-of-Speech: VERB
+Trying Replacement Word: make_water | Part-of-Speech: NOUN
+Trying Replacement Word: pee | Part-of-Speech: NOUN
+Trying Replacement Word: make_water | Part-of-Speech: NOUN
+Trying Replacement Word: piddle | Part-of-Speech: VERB
+computing_device be A very useful device to piddle quick dependable computations honest reliable reckoning
+Chosen Word: an | Part-of-Speech: DET
+Trying Replacement Word: AN | Part-of-Speech: DET
+computer embodies AN actually utilitarian gimmick to make firm reliable figuring without human intervention
+Chosen Word: mediocre | Part-of-Speech: NOUN
+Trying Replacement Word: fair | Part-of-Speech: NOUN
+calculator represents a very useful appliance to constitute loyal fair without human treatment
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: fasting | Part-of-Speech: VERB
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: degraded | Part-of-Speech: VERB
+Trying Replacement Word: fast | Part-of-Speech: ADV
+reckoned are a very useful twist to reality fast reliable, computations without human intervention
+imagine warpaint a very useful thingummy to make libertine reliable, computations without human
+Selection for Generation: 45
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+28 14
+
+        Generation: 45
+        Best: 0.6220215533905343 | computer is A genuinely futile gimmick to rush tight reliable, computations without human man
+        Worst: 0.3644864455254148 | Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention
+        Mean: 0.5012059378389803
+        Population: ['computing_machine are a really utilitarian twist_around to constitute fast, reliable, dependable without computation intervention', 'estimator warpaint AN authentically futile device to shoot flying unquestionable computation calculation deliberation workout', 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian device to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good truthful intervention', 'data_processor comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A really useful twist to realism firm true calculation without human', 'information_processing_system makeup a very utilitarian twist to urinate fast reliable, computations without human intervention', 'figure monetary_value ampere really utilitarian device to crystalise flying reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without reckoning intervention', 'form is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really futile device to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute A really futile device to defecate dissolute reliable, computations computation figuring calculate', 'calculate makeup A very useful gizmo to fix loyal dependable true without computation intervention', 'figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a very utilitarian twist to comprise truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest good computing intervention', 'data_processor are A sincerely futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a really futile twist to make riotous reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations without computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A really useful twist to take fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'computer is A genuinely futile gimmick to rush tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'information_processing_system be An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A real useful twist_around to piss quick authentic without calculation intervention', 'guess constitute A genuinely futile gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous fair computations without human man', 'depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention', 'depend is a very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, honest true truthful', 'computer represents A really useful twist to shoot dissipated reliable, authentic calculation intervention', 'Computers peer a real useful device to drive immediate true dependable without respectable intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable without reliable intervention', "computing_machine cost A very utilitarian twist to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, true without authentic intervention', 'figure be a very utilitarian device to bitty fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear dissolute reliable, authentic without human intervention', 'information_processing_system are deoxyadenosine_monophosphate really utilitarian device to garner fast, reliable, honest without dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without authentic intervention', 'information_processing_system is A genuinely sleeveless twist to take loyal dependable computations without human intervention', 'figure is a very unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honorable computations without computation intervention', 'figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful bend to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make firm reliable, dependable figuring secure fancy', 'Computers be a really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'suppose be A very useful device to muddle fast, reliable, dependable without reliable honest', 'information_processing_system survive adenine really sleeveless catch to realism quick reliable authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to piddle quick dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer embodies AN actually utilitarian gimmick to make firm reliable figuring without human intervention', 'figure be a real utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very utilitarian gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to constitute loyal fair without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff unfeigned calculation human intervention', 'imagine warpaint a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate laden true compute figure human intervention']
+
+Recombining for Generation: 46
+Mutating for Generation: 46
+Chosen Word: constitute | Part-of-Speech: VERB
+Trying Replacement Word: be | Part-of-Speech: VERB
+computing_machine are a really utilitarian twist_around to be fast, reliable, dependable without computation intervention
+Chosen Word: computation | Part-of-Speech: NOUN
+Trying Replacement Word: calculation | Part-of-Speech: NOUN
+estimator warpaint AN authentically futile device to shoot flying unquestionable calculation calculation deliberation workout
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+Computers is amp very utilitarian twist to realism fast reliable, reliable computation calculation intervention
+Chosen Word: reality | Part-of-Speech: NOUN
+Trying Replacement Word: reality | Part-of-Speech: NOUN
+digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession
+Chosen Word: good | Part-of-Speech: ADJ
+Trying Replacement Word: good | Part-of-Speech: ADJ
+information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good trade_good intervention
+figure comprise A very useful doodad to induce fast reliable, computations without human intervention
+Chosen Word: reckoning | Part-of-Speech: VERB
+Trying Replacement Word: see | Part-of-Speech: VERB
+figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention
+Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: gimmick | Part-of-Speech: NOUN
+suppose be A really futile gimmick to gain fast, reliable, reliable without honest intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: actually | Part-of-Speech: ADV
+information_processing_system constitute A actually futile device to defecate dissolute reliable, computations computation figuring calculate
+Chosen Word: calculate | Part-of-Speech: VERB
+Trying Replacement Word: aim | Part-of-Speech: VERB
+aim makeup A very useful gizmo to fix loyal dependable true without computation intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: vitamin_A | Part-of-Speech: NOUN
+Trying Replacement Word: a | Part-of-Speech: DET
+figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computations | Part-of-Speech: NOUN
+data_processor be a really bootless device to pull_in firm reliable, computations figuring computation intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: truly | Part-of-Speech: ADV
+computer part A truly useful twist to take fast, reliable, dependable without good intervention
+Chosen Word: information_processing_system | Part-of-Speech: NOUN
+Trying Replacement Word: computing_machine | Part-of-Speech: NOUN
+computing_machine be An actually utilitarian device to earn turbulent reliable, computations calculation human intervention
+Chosen Word: real | Part-of-Speech: ADV
+Trying Replacement Word: genuine | Part-of-Speech: ADJ
+Trying Replacement Word: literal | Part-of-Speech: ADJ
+Trying Replacement Word: literal | Part-of-Speech: ADJ
+Trying Replacement Word: substantial | Part-of-Speech: ADJ
+Trying Replacement Word: substantial | Part-of-Speech: ADJ
+Trying Replacement Word: genuine | Part-of-Speech: ADJ
+Trying Replacement Word: really | Part-of-Speech: ADV
+Computers makeup A really useful twist_around to piss quick authentic without calculation intervention
+Chosen Word: constitute | Part-of-Speech: VERB
+Trying Replacement Word: appoint | Part-of-Speech: VERB
+guess appoint A genuinely futile gimmick to make excessive honest reckoning without computation figure
+Chosen Word: fair | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+reckoned is A real useful gimmick to clear_up riotous honest computations without human man
+depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention
+Chosen Word: amp | Part-of-Speech: VERB
+Trying Replacement Word: AMP | Part-of-Speech: PROPN
+Trying Replacement Word: amp | Part-of-Speech: VERB
+computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention
+depend is a very futile worm to make fast, dependable without human intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: rattling | Part-of-Speech: VERB
+Trying Replacement Word: truly | Part-of-Speech: ADV
+computer represents A truly useful twist to shoot dissipated reliable, authentic calculation intervention
+Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable without reliable intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: a | Part-of-Speech: DET
+figure be a very utilitarian device to bitty fast dependable computations true computation intervention
+reckoned represent adenine very futile nubbins to clear dissolute reliable, authentic without human intervention
+Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without dependable intervention
+information_processing_system is A genuinely sleeveless twist to take loyal dependable computations without human intervention
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: device | Part-of-Speech: NOUN
+speculate is a very futile device to score fast honorable computations without computation intervention
+figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable without computation homo
+Chosen Word: figuring | Part-of-Speech: VERB
+Trying Replacement Word: figuring | Part-of-Speech: VERB
+Computers live a really utilitarian gimmick to make firm reliable, dependable figuring estimate fancy
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+suppose be A very useful device to muddle fast, reliable, dependable without good honest
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention
+Chosen Word: piddle | Part-of-Speech: VERB
+Trying Replacement Word: spend_a_penny | Part-of-Speech: ADJ
+Trying Replacement Word: trifle | Part-of-Speech: ADV
+Trying Replacement Word: take_a_leak | Part-of-Speech: NUM
+Trying Replacement Word: pee | Part-of-Speech: VERB
+computing_device be A very useful device to pee quick dependable computations honest reliable reckoning
+Chosen Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: really | Part-of-Speech: ADV
+Trying Replacement Word: existent | Part-of-Speech: ADJ
+figure be a existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention
+reckoned are a very useful twist to reality fast reliable, computations without human intervention
+Chosen Word: unfeigned | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+Computers follow a genuinely useful gizmo to make_believe stiff true calculation human intervention
+imagine warpaint a very useful thingummy to make libertine reliable, computations without human
+Selection for Generation: 46
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+28 14
+
+        Generation: 46
+        Best: 0.6220215533905343 | computer is A genuinely futile gimmick to rush tight reliable, computations without human man
+        Worst: 0.3644864455254148 | Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention
+        Mean: 0.5013237126055269
+        Population: ['computing_machine are a really utilitarian twist_around to be fast, reliable, dependable without computation intervention', 'estimator warpaint AN authentically futile device to shoot flying unquestionable calculation deliberation workout', 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian twist to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing quick reliable, honest good trade_good intervention', 'data_processor comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A really useful twist to realism firm true calculation without human', 'information_processing_system makeup a very utilitarian twist to urinate fast reliable, computations without human intervention', 'figure comprise A very useful doodad to induce fast reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention', 'form is a really useful device to reach fast reliable, computations reckoning human intervention', 'Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be A really futile gimmick to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute An actually futile device to defecate dissolute reliable, computations computation figuring calculate', 'aim makeup A very useful gizmo to fix loyal dependable true without computation intervention', 'figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a very utilitarian twist to comprise truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest good computing intervention', 'data_processor are A sincerely futile gimmick to rush tight reliable, computations without human intervention', 'reckoned constitute a really futile twist to make riotous reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations figuring computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A truly useful twist to take fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'computer is A genuinely futile gimmick to rush tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation computing', 'computing_machine be An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A really useful twist_around to piss quick authentic without calculation intervention', 'guess appoint A genuinely futile gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human man', 'depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention', 'depend is a very futile worm to make fast, dependable without human intervention', 'computing_machine Be a genuinely useful twist to constitute fast, reliable, honest true truthful', 'computer represents A truly useful twist to shoot dissipated reliable, authentic calculation intervention', 'Computers peer a real useful device to drive immediate true dependable without respectable intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable without reliable intervention', "computing_machine cost A very utilitarian twist to puddle fast steady-going computations' computation", 'Computers is a very useful device to make firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, true without authentic intervention', 'figure be a very utilitarian device to bitty fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear dissolute reliable, authentic without human intervention', 'information_processing_system comprise A very useful doodad to induce fast reliable, honest true dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without dependable intervention', 'information_processing_system is A genuinely sleeveless twist to take loyal dependable computations without human intervention', 'figure is a very unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honorable computations without computation intervention', 'figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable without computation homo', 'figure warpaint A truly useful bend to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make firm reliable, dependable figuring estimate fancy', 'Computers be a really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'suppose be A very useful device to muddle fast, reliable, dependable without good honest', 'information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to pee quick dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer cost AN actually utilitarian gimmick to make firm reliable figuring without human intervention', 'figure be an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very utilitarian gimmick to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to constitute loyal fair without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations without human intervention', 'Computers follow a genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine warpaint a very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gimmick to stimulate laden true compute figure human intervention']
+
+Recombining for Generation: 47
+Mutating for Generation: 47
+computing_machine are a really utilitarian twist_around to be fast, reliable, dependable without computation intervention
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+estimator warpaint AN authentically futile twist to shoot flying unquestionable calculation deliberation workout
+Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention
+Chosen Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: quickly | Part-of-Speech: ADV
+Trying Replacement Word: prompt | Part-of-Speech: NOUN
+Trying Replacement Word: straightaway | Part-of-Speech: NOUN
+Trying Replacement Word: fast | Part-of-Speech: ADJ
+information_processing_system follow a very utilitarian device to manufacturing fast reliable, honest good trade_good intervention
+Chosen Word: reckoning | Part-of-Speech: VERB
+Trying Replacement Word: reckoning | Part-of-Speech: VERB
+form is a really useful device to reach fast reliable, computations reckoning work_out intervention
+Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention
+Chosen Word: fix | Part-of-Speech: VERB
+Trying Replacement Word: deposit | Part-of-Speech: VERB
+aim makeup A very useful gizmo to deposit loyal dependable true without computation intervention
+Chosen Word: comprise | Part-of-Speech: VERB
+Trying Replacement Word: represent | Part-of-Speech: VERB
+information_processing_system are a very utilitarian twist to represent truehearted reliable, true without human intervention
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+estimator warpaint A very utilitarian device to manufacturing quick reliable, honest honest computing intervention
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computations | Part-of-Speech: NOUN
+data_processor are A sincerely futile gimmick to rush tight reliable, computations computation human intervention
+Chosen Word: make | Part-of-Speech: VERB
+Trying Replacement Word: ca | Part-of-Speech: VERB
+reckoned constitute a really futile twist to ca-ca riotous reliable, honest without human human_being
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computations | Part-of-Speech: NOUN
+data_processor be a really bootless device to pull_in firm reliable, computations reckoning computation intervention
+computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention
+Chosen Word: twist | Part-of-Speech: NOUN
+Trying Replacement Word: wrick | Part-of-Speech: NOUN
+computer part A truly useful wrick to take fast, reliable, dependable without good intervention
+Chosen Word: computing | Part-of-Speech: NOUN
+Trying Replacement Word: compute | Part-of-Speech: NOUN
+computer surveys a very useful device to shuffle close dependable computations computing computation compute
+Chosen Word: futile | Part-of-Speech: ADJ
+Trying Replacement Word: bootless | Part-of-Speech: ADJ
+guess appoint A genuinely bootless gimmick to make excessive honest reckoning without computation figure
+Chosen Word: man | Part-of-Speech: NOUN
+Trying Replacement Word: humanity | Part-of-Speech: NOUN
+reckoned is A real useful gimmick to clear_up riotous honest computations without human humanity
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+depend is a very futile worm to make fast, dependable true human intervention
+Chosen Word: twist | Part-of-Speech: NOUN
+Trying Replacement Word: spin | Part-of-Speech: NOUN
+computing_machine Be a genuinely useful spin to constitute fast, reliable, honest true truthful
+Chosen Word: authentic | Part-of-Speech: ADJ
+Trying Replacement Word: authentic | Part-of-Speech: ADJ
+computer represents A really futile twist to shoot dissipated reliable, authentic authentic intervention
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: secure | Part-of-Speech: ADJ
+Computers peer a real useful device to drive immediate true secure without respectable intervention
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable dependable reliable intervention
+Chosen Word: make | Part-of-Speech: VERB
+Trying Replacement Word: take_a_leak | Part-of-Speech: NUM
+Trying Replacement Word: wee | Part-of-Speech: ADJ
+Trying Replacement Word: bring_in | Part-of-Speech: ADJ
+Trying Replacement Word: arrive_at | Part-of-Speech: ADJ
+Trying Replacement Word: score | Part-of-Speech: VERB
+Computers is a very useful device to score firm reliable, reliable without authentic intervention
+calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: a | Part-of-Speech: DET
+computing_machine be a really useful twist to take fast, reliable, true without authentic intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+reckoned represent adenine very futile nubbins to clear dissolute honest authentic without human intervention
+Chosen Word: comprise | Part-of-Speech: VERB
+Trying Replacement Word: represent | Part-of-Speech: VERB
+information_processing_system represent A very useful doodad to induce fast reliable, honest true dependable intervention
+Chosen Word: turn_of_events | Part-of-Speech: NOUN
+Trying Replacement Word: turn_of_events | Part-of-Speech: NOUN
+computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without dependable intervention
+Chosen Word: take | Part-of-Speech: VERB
+Trying Replacement Word: charter | Part-of-Speech: VERB
+information_processing_system is A genuinely sleeveless twist to charter loyal dependable computations without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: really | Part-of-Speech: ADV
+figure is a really unavailing whatsit to piss tight honest computations without computation intercession
+Chosen Word: human | Part-of-Speech: ADJ
+Trying Replacement Word: human | Part-of-Speech: ADJ
+computer represents a really useful gimmick to pee quick reliable, computations without human human_being
+Chosen Word: computation | Part-of-Speech: NOUN
+Trying Replacement Word: calculation | Part-of-Speech: NOUN
+speculate is a very futile device to score fast honorable computations without calculation intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable reliable computation homo
+Chosen Word: figure | Part-of-Speech: NOUN
+Trying Replacement Word: pattern | Part-of-Speech: NOUN
+pattern warpaint A truly useful bend to stool exuberant honest reckoning without human intervention
+Chosen Word: menu | Part-of-Speech: VERB
+Trying Replacement Word: menu | Part-of-Speech: VERB
+Computers be a really utilitarian twist to menu riotous reliable, authentic without computation intervention
+Chosen Word: suppose | Part-of-Speech: VERB
+Trying Replacement Word: say | Part-of-Speech: VERB
+say be A very useful device to muddle fast, reliable, dependable without good honest
+Chosen Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention
+Chosen Word: authentic | Part-of-Speech: ADJ
+Trying Replacement Word: authentic | Part-of-Speech: ADJ
+information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable
+computing_device be A very useful device to pee quick dependable computations honest reliable reckoning
+Chosen Word: intervention | Part-of-Speech: NOUN
+Trying Replacement Word: interference | Part-of-Speech: NOUN
+computer cost AN actually utilitarian gimmick to make firm reliable figuring without human interference
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: gismo | Part-of-Speech: NOUN
+calculator represents A very utilitarian gismo to fare tight average computing without veritable intervention
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computations | Part-of-Speech: NOUN
+reckoned are a very useful twist to reality fast reliable, computations computing human intervention
+Chosen Word: Computers | Part-of-Speech: NOUN
+Trying Replacement Word: reckoner | Part-of-Speech: NOUN
+reckoner follow a genuinely useful gizmo to make_believe stiff true calculation human intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: A | Part-of-Speech: DET
+imagine warpaint A very useful thingummy to make libertine reliable, computations without human
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: gizmo | Part-of-Speech: NOUN
+computer embodies a very utilitarian gizmo to stimulate laden true compute figure human intervention
+Selection for Generation: 47
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+38 14
+
+        Generation: 47
+        Best: 0.6472057670720472 | computer represents A really futile twist to shoot dissipated reliable, authentic intervention
+        Worst: 0.3644864455254148 | Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention
+        Mean: 0.5021427617194307
+        Population: ['computing_machine are a really utilitarian twist_around to be fast, reliable, dependable without computation intervention', 'estimator warpaint AN authentically futile twist to shoot flying unquestionable calculation deliberation workout', 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian twist to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computations figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing fast reliable, honest good trade_good intervention', 'data_processor comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A really useful twist to realism firm true calculation without human', 'information_processing_system makeup a very utilitarian twist to urinate fast reliable, computations without human intervention', 'figure comprise A very useful doodad to induce fast reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention', 'form is a really useful device to reach fast reliable, computations reckoning workout intervention', 'Computers lifespan a very useful widget to pretend fast, reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be a very unavailing whatsit to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute An actually futile device to defecate dissolute reliable, computations computation figuring calculate', 'aim makeup A very useful gizmo to deposit loyal dependable true without computation intervention', 'figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a very utilitarian twist to represent truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest computing intervention', 'data_processor are A sincerely futile gimmick to rush tight reliable, computations computation human intervention', 'reckoned constitute a really futile twist to ca-ca riotous reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations reckoning computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A truly useful Crick to take fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'computer is A genuinely futile gimmick to rush tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation compute', 'computing_machine be An actually utilitarian device to earn turbulent reliable, computations calculation human intervention', 'Computers makeup A really useful twist_around to piss quick authentic without calculation intervention', 'guess appoint A genuinely bootless gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human humanity', 'depend is an actually utilitarian device to create fast, reliable, reliable without dependable intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention', 'depend is a very futile worm to make fast, dependable true human intervention', 'computing_machine Be a genuinely useful spin to constitute fast, reliable, honest true truthful', 'computer represents A really futile twist to shoot dissipated reliable, authentic intervention', 'Computers peer a real useful device to drive immediate true secure without respectable intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable reliable intervention', "computing_machine cost A very utilitarian twist to puddle fast steady-going computations' computation", 'Computers is a very useful device to score firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, true without authentic intervention', 'figure be a very utilitarian device to bitty fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbins to clear dissolute honest authentic without human intervention', 'information_processing_system represent A very useful doodad to induce fast reliable, honest true dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease", 'computing_machine are amp very utilitarian turn_of_events to capture fast, reliable, reliable without dependable intervention', 'information_processing_system is A genuinely sleeveless twist to charter loyal dependable computations without human intervention', 'figure is a really unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'speculate is a very futile device to score fast honorable computations without calculation intervention', 'figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable computation homo', 'pattern warpaint A truly useful bend to stool exuberant honest reckoning without human intervention', 'Computers live a really utilitarian gimmick to make firm reliable, dependable figuring estimate fancy', 'Computers be a really utilitarian twist to menu riotous reliable, authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'say be A very useful device to muddle fast, reliable, dependable without good honest', 'information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention', 'reckoned are A very useful twist to reality fast reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to pee quick dependable computations honest reliable reckoning', 'depend follow a very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer cost AN actually utilitarian gimmick to make firm reliable figuring without human interference', 'figure be an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very utilitarian gizmo to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to constitute loyal fair without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations computing human intervention', 'reckoned follows a genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine warpaint A very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gizmo to stimulate laden true compute figure human intervention']
+
+Recombining for Generation: 48
+Mutating for Generation: 48
+Chosen Word: fast | Part-of-Speech: ADJ
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: profligate | Part-of-Speech: ADJ
+computing_machine are a really utilitarian twist_around to be profligate reliable, dependable without computation intervention
+information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: VERB
+Trying Replacement Word: axerophthol | Part-of-Speech: VERB
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: adenine | Part-of-Speech: VERB
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: axerophthol | Part-of-Speech: VERB
+Trying Replacement Word: angstrom | Part-of-Speech: PROPN
+Trying Replacement Word: group_A | Part-of-Speech: NOUN
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: VERB
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: A | Part-of-Speech: DET
+calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computing | Part-of-Speech: NOUN
+digit warpaint A very utilitarian twist to reality firm reliable computing figure human intercession
+Chosen Word: urinate | Part-of-Speech: VERB
+Trying Replacement Word: make | Part-of-Speech: VERB
+information_processing_system makeup a very utilitarian twist to make fast reliable, computations without human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: very | Part-of-Speech: ADV
+figure comprise A very useful doodad to induce fast reliable, computations without human intervention
+figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: debauched | Part-of-Speech: VERB
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: firm | Part-of-Speech: ADJ
+Trying Replacement Word: profligate | Part-of-Speech: ADJ
+Trying Replacement Word: degraded | Part-of-Speech: ADJ
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: loyal | Part-of-Speech: ADJ
+Trying Replacement Word: immobile | Part-of-Speech: NOUN
+Trying Replacement Word: immobile | Part-of-Speech: NOUN
+Trying Replacement Word: immobile | Part-of-Speech: NOUN
+Trying Replacement Word: profligate | Part-of-Speech: ADJ
+Trying Replacement Word: libertine | Part-of-Speech: NOUN
+Computers lifespan a very useful widget to pretend libertine reliable, honest without human intervention
+Chosen Word: actually | Part-of-Speech: ADV
+Trying Replacement Word: really | Part-of-Speech: ADV
+information_processing_system constitute An really futile device to defecate dissolute reliable, computations computation figuring calculate
+Chosen Word: twist | Part-of-Speech: NOUN
+Trying Replacement Word: worm | Part-of-Speech: NOUN
+information_processing_system are a very utilitarian worm to represent truehearted reliable, true without human intervention
+Chosen Word: take | Part-of-Speech: VERB
+Trying Replacement Word: train | Part-of-Speech: VERB
+computer part A truly useful Crick to train fast, reliable, dependable without good intervention
+Chosen Word: earn | Part-of-Speech: VERB
+Trying Replacement Word: make | Part-of-Speech: VERB
+computing_machine be An actually utilitarian device to make turbulent reliable, computations calculation human intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+depend is an actually utilitarian device to create fast, reliable, reliable without authentic intervention
+Chosen Word: depend | Part-of-Speech: VERB
+Trying Replacement Word: depend | Part-of-Speech: VERB
+depend is a very futile worm to make fast, dependable true human intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+computing_machine Be a genuinely utilitarian spin to constitute fast, reliable, honest true truthful
+Computers peer an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention
+Chosen Word: steady | Part-of-Speech: ADJ
+Trying Replacement Word: brace | Part-of-Speech: NOUN
+Trying Replacement Word: calm | Part-of-Speech: ADJ
+computing_machine cost A very utilitarian twist to puddle fast calm computations' computation
+computing_machine be a really useful twist to take fast, reliable, true without authentic intervention
+Chosen Word: nubbins | Part-of-Speech: NOUN
+Trying Replacement Word: nubbin | Part-of-Speech: NOUN
+reckoned represent adenine very futile nubbin to clear dissolute honest authentic without human intervention
+Chosen Word: take | Part-of-Speech: VERB
+Trying Replacement Word: hire | Part-of-Speech: VERB
+computing_machine are amp very utilitarian turn_of_events to hire fast, reliable, reliable without dependable intervention
+Chosen Word: clear | Part-of-Speech: VERB
+Trying Replacement Word: well | Part-of-Speech: ADV
+Trying Replacement Word: shed_light_on | Part-of-Speech: PRON
+Trying Replacement Word: unmortgaged | Part-of-Speech: ADJ
+Trying Replacement Word: take_in | Part-of-Speech: VERB
+information_processing_system is A genuinely sleeveless nubbins to take_in dissolute honest authentic without human intervention
+Chosen Word: pee | Part-of-Speech: VERB
+Trying Replacement Word: pee | Part-of-Speech: VERB
+computer represents a really useful gimmick to pee quick reliable, computations without human human_being
+Chosen Word: speculate | Part-of-Speech: VERB
+Trying Replacement Word: chew_over | Part-of-Speech: CCONJ
+Trying Replacement Word: muse | Part-of-Speech: NOUN
+Trying Replacement Word: muse | Part-of-Speech: NOUN
+Trying Replacement Word: ruminate | Part-of-Speech: NOUN
+Trying Replacement Word: hypothesize | Part-of-Speech: VERB
+hypothesize is a very futile device to score fast honorable computations without calculation intervention
+Chosen Word: reckoning | Part-of-Speech: NOUN
+Trying Replacement Word: view | Part-of-Speech: NOUN
+pattern warpaint A truly useful bend to stool exuberant honest view without human intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: a | Part-of-Speech: DET
+Computers live a really utilitarian gimmick to make firm reliable, dependable figuring estimate fancy
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+Computers be a really utilitarian twist to menu riotous true authentic without computation intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: a | Part-of-Speech: DET
+information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention
+Chosen Word: sleeveless | Part-of-Speech: VERB
+Trying Replacement Word: vain | Part-of-Speech: ADJ
+Trying Replacement Word: vain | Part-of-Speech: ADJ
+Trying Replacement Word: vain | Part-of-Speech: ADJ
+Trying Replacement Word: fruitless | Part-of-Speech: ADJ
+Trying Replacement Word: vain | Part-of-Speech: ADJ
+Trying Replacement Word: vain | Part-of-Speech: ADJ
+Trying Replacement Word: sleeveless | Part-of-Speech: VERB
+information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention
+Chosen Word: fast | Part-of-Speech: ADV
+Trying Replacement Word: dissipated | Part-of-Speech: VERB
+Trying Replacement Word: immobile | Part-of-Speech: VERB
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: degenerate | Part-of-Speech: NOUN
+Trying Replacement Word: tight | Part-of-Speech: ADJ
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: flying | Part-of-Speech: VERB
+Trying Replacement Word: dissolute | Part-of-Speech: NOUN
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: riotous | Part-of-Speech: ADJ
+Trying Replacement Word: immobile | Part-of-Speech: VERB
+Trying Replacement Word: fasting | Part-of-Speech: VERB
+Trying Replacement Word: quick | Part-of-Speech: ADJ
+Trying Replacement Word: libertine | Part-of-Speech: NOUN
+Trying Replacement Word: flying | Part-of-Speech: VERB
+reckoned are A very useful twist to reality flying reliable, computations computation reckoning calculation
+Chosen Word: reckoning | Part-of-Speech: NOUN
+Trying Replacement Word: imagine | Part-of-Speech: NOUN
+computing_device be A very useful device to pee quick dependable computations honest reliable imagine
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: ADJ
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: A | Part-of-Speech: DET
+depend follow A very futile gimmick to fix exuberant honest reckoning without figuring intervention
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: thingumabob | Part-of-Speech: NOUN
+computer cost AN actually utilitarian thingumabob to make firm reliable figuring without human interference
+Chosen Word: constitute | Part-of-Speech: VERB
+Trying Replacement Word: institute | Part-of-Speech: VERB
+calculator represents a very useful appliance to institute loyal fair without human treatment
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: amp | Part-of-Speech: NOUN
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: axerophthol | Part-of-Speech: ADJ
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: a | Part-of-Speech: DET
+reckoned are a very useful twist to reality fast reliable, computations computing human intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: very | Part-of-Speech: ADV
+imagine warpaint A very useful thingummy to make libertine reliable, computations without human
+Chosen Word: true | Part-of-Speech: ADJ
+Trying Replacement Word: truthful | Part-of-Speech: ADJ
+computer embodies a very utilitarian gizmo to stimulate laden truthful compute figure human intervention
+Selection for Generation: 48
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+38 19
+
+        Generation: 48
+        Best: 0.6472057670720472 | computer represents A really futile twist to shoot dissipated reliable, authentic intervention
+        Worst: 0.38536995032657423 | figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention
+        Mean: 0.5014267108351336
+        Population: ['computing_machine are a really utilitarian twist_around to be profligate reliable, dependable without computation intervention', 'estimator warpaint AN authentically futile twist to shoot flying unquestionable calculation deliberation workout', 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian twist to realism fast reliable, reliable computation calculation intervention', "calculator establishes A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality firm reliable computing figure human intercession', 'Computers are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to manufacturing fast reliable, honest good trade_good intervention', 'data_processor comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A really useful twist to realism firm true calculation without human', 'information_processing_system makeup a very utilitarian twist to make fast reliable, computations without human intervention', 'figure comprise A very useful doodad to induce fast reliable, computations without human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention', 'form is a really useful device to reach fast reliable, computations reckoning workout intervention', 'Computers lifespan a very useful widget to pretend libertine reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be a very unavailing whatsit to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute A really futile device to defecate dissolute reliable, computations computation figuring calculate', 'aim makeup A very useful gizmo to deposit loyal dependable true without computation intervention', 'figure lifespan a very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a very utilitarian worm to represent truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest computing intervention', 'data_processor are A sincerely futile gimmick to rush tight reliable, computations computation human intervention', 'reckoned constitute a really futile twist to ca-ca riotous reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations reckoning computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A truly useful Crick to train fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'computer is A genuinely futile gimmick to rush tight reliable, computations without human man', 'computer surveys a very useful device to shuffle close dependable computations computing computation compute', 'computing_machine be An actually utilitarian device to make turbulent reliable, computations calculation human intervention', 'Computers makeup A really useful twist_around to piss quick authentic without calculation intervention', 'guess appoint A genuinely bootless gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human humanity', 'depend is an actually utilitarian device to create fast, reliable, reliable without authentic intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention', 'depend is a very futile worm to make fast, dependable true human intervention', 'computing_machine Be a genuinely utilitarian spin to constitute fast, reliable, honest true truthful', 'computer represents A really futile twist to shoot dissipated reliable, authentic intervention', 'Computers peer an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable reliable intervention', "computing_machine cost A very utilitarian twist to puddle fast calm computations' computation", 'Computers is a very useful device to score firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, true without authentic intervention', 'figure be a very utilitarian device to bitty fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbin to clear dissolute honest authentic without human intervention', 'information_processing_system represent A very useful doodad to induce fast reliable, honest true dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease", 'computing_machine are amp very utilitarian turn_of_events to hire fast, reliable, reliable without dependable intervention', 'information_processing_system is A genuinely sleeveless nubbins to take_in dissolute honest authentic without human intervention', 'figure is a really unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'hypothesize is a very futile device to score fast honorable computations without calculation intervention', 'figure is A genuinely useful thingamajig to take_a_shit degenerate reliable, reliable computation homo', 'pattern warpaint A truly useful bend to stool exuberant honest view without human intervention', 'Computers live a really utilitarian gimmick to make firm reliable, dependable figuring estimate fancy', 'Computers be a really utilitarian twist to menu riotous true authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'say be A very useful device to muddle fast, reliable, dependable without good honest', 'information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention', 'reckoned are A very useful twist to reality flying reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to pee quick dependable computations honest reliable imagine', 'depend follow A very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer cost AN actually utilitarian thingumabob to make firm reliable figuring without human interference', 'figure be an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator represents A very utilitarian gizmo to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to institute loyal fair without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations computing human intervention', 'reckoned follows a genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine warpaint A very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gizmo to stimulate laden truthful compute figure human intervention']
+
+Recombining for Generation: 49
+Mutating for Generation: 49
+Chosen Word: be | Part-of-Speech: VERB
+Trying Replacement Word: exist | Part-of-Speech: VERB
+computing_machine are a really utilitarian twist_around to exist profligate reliable, dependable without computation intervention
+Chosen Word: very | Part-of-Speech: ADV
+Trying Replacement Word: real | Part-of-Speech: ADJ
+Trying Replacement Word: rattling | Part-of-Speech: VERB
+Trying Replacement Word: very | Part-of-Speech: ADV
+information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing
+Chosen Word: establishes | Part-of-Speech: VERB
+Trying Replacement Word: found | Part-of-Speech: VERB
+calculator found A genuinely useful wriggle to cook miserly authentic computations' calculation intervention
+Chosen Word: firm | Part-of-Speech: ADJ
+Trying Replacement Word: firmly | Part-of-Speech: ADV
+Trying Replacement Word: house | Part-of-Speech: NOUN
+Trying Replacement Word: steadfastly | Part-of-Speech: ADV
+Trying Replacement Word: stiff | Part-of-Speech: ADJ
+digit warpaint A very utilitarian twist to reality stiff reliable computing figure human intercession
+Chosen Word: Computers | Part-of-Speech: NOUN
+Trying Replacement Word: computing_device | Part-of-Speech: NOUN
+computing_device are a really utilitarian gimmick to take fast, reliable, computations without computing intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+information_processing_system makeup a very useful twist to make fast reliable, computations without human intervention
+Chosen Word: computations | Part-of-Speech: NOUN
+Trying Replacement Word: computations | Part-of-Speech: NOUN
+figure comprise A very useful doodad to induce fast reliable, computations calculation human intervention
+form is a really useful device to reach fast reliable, computations reckoning workout intervention
+Chosen Word: futile | Part-of-Speech: ADJ
+Trying Replacement Word: ineffectual | Part-of-Speech: ADJ
+information_processing_system constitute A really ineffectual device to defecate dissolute reliable, computations computation figuring calculate
+Chosen Word: true | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+aim makeup A very useful gizmo to deposit loyal dependable true without computation intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: type_A | Part-of-Speech: NOUN
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: NOUN
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: NOUN
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: NOUN
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: A | Part-of-Speech: DET
+figure lifespan A very useful thingamajig to pretend fast, reliable, honest without human intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+information_processing_system are a very utilitarian worm to represent truehearted reliable, true without human intervention
+Chosen Word: utilitarian | Part-of-Speech: ADJ
+Trying Replacement Word: utilitarian | Part-of-Speech: ADJ
+computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention
+Chosen Word: Crick | Part-of-Speech: PROPN
+Trying Replacement Word: Francis_Crick | Part-of-Speech: NOUN
+Trying Replacement Word: rick | Part-of-Speech: NOUN
+Trying Replacement Word: wrick | Part-of-Speech: NOUN
+Trying Replacement Word: wrick | Part-of-Speech: NOUN
+Trying Replacement Word: Crick | Part-of-Speech: PROPN
+computer part A truly useful Crick to train fast, reliable, dependable without good intervention
+figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention
+Chosen Word: gimmick | Part-of-Speech: NOUN
+Trying Replacement Word: whatsis | Part-of-Speech: NOUN
+computer is A genuinely futile whatsis to rush tight reliable, computations without human man
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: gimmick | Part-of-Speech: NOUN
+computer surveys a very useful gimmick to shuffle close dependable computations computing computation compute
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: type_A | Part-of-Speech: ADJ
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: A | Part-of-Speech: DET
+reckoned is A real useful gimmick to clear_up riotous honest computations without human humanity
+computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention
+Chosen Word: worm | Part-of-Speech: NOUN
+Trying Replacement Word: wrestle | Part-of-Speech: NOUN
+depend is a very futile wrestle to make fast, dependable true human intervention
+Chosen Word: futile | Part-of-Speech: ADJ
+Trying Replacement Word: unavailing | Part-of-Speech: VERB
+Trying Replacement Word: sleeveless | Part-of-Speech: ADJ
+computer represents A really sleeveless twist to shoot dissipated reliable, authentic intervention
+Chosen Word: degenerate | Part-of-Speech: NOUN
+Trying Replacement Word: pervert | Part-of-Speech: NOUN
+Computers peer an existent utilitarian whatchamacallum to take pervert reliable, dependable steady-going human intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: reliable | Part-of-Speech: ADJ
+Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable reliable honest
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: in_truth | Part-of-Speech: NOUN
+Trying Replacement Word: in_truth | Part-of-Speech: NOUN
+Trying Replacement Word: really | Part-of-Speech: ADV
+computing_machine be a really useful twist to take fast, reliable, true without authentic intervention
+Chosen Word: be | Part-of-Speech: VERB
+Trying Replacement Word: make_up | Part-of-Speech: VERB
+figure make_up a very utilitarian device to bitty fast dependable computations true computation intervention
+Chosen Word: intervention | Part-of-Speech: NOUN
+Trying Replacement Word: treatment | Part-of-Speech: NOUN
+reckoned represent adenine very futile nubbin to clear dissolute honest authentic without human treatment
+computing_machine are amp very utilitarian turn_of_events to hire fast, reliable, reliable without dependable intervention
+hypothesize is a very futile device to score fast honorable computations without calculation intervention
+figure is A really useful device to puddle fast reliable, honest without human
+pattern warpaint A truly useful bend to stool exuberant honest view without human intervention
+Chosen Word: make | Part-of-Speech: VERB
+Trying Replacement Word: micturate | Part-of-Speech: VERB
+Computers live a really utilitarian gimmick to micturate firm reliable, dependable figuring estimate fancy
+Computers be a really utilitarian twist to menu riotous true authentic without computation intervention
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: angstrom | Part-of-Speech: PROPN
+Trying Replacement Word: type_A | Part-of-Speech: NOUN
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: adenine | Part-of-Speech: ADJ
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: amp | Part-of-Speech: NOUN
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: a | Part-of-Speech: DET
+say be a very useful twist to pull_in firm reliable, dependable without good honest
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+computer cost AN actually utilitarian thingumabob to make firm true figuring without human interference
+Chosen Word: represents | Part-of-Speech: VERB
+Trying Replacement Word: defend | Part-of-Speech: VERB
+calculator defend A very utilitarian gizmo to fare tight average computing without veritable intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: angstrom | Part-of-Speech: PROPN
+Trying Replacement Word: axerophthol | Part-of-Speech: NOUN
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: A | Part-of-Speech: DET
+reckoned follows A genuinely useful gizmo to make_believe stiff true calculation human intervention
+Selection for Generation: 49
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+38 10
+
+        Generation: 49
+        Best: 0.6170842101701227 | computer represents A really sleeveless twist to shoot dissipated reliable, authentic intervention
+        Worst: 0.39628409541573817 | information_processing_system makeup a very useful twist to make fast reliable, computations without human intervention
+        Mean: 0.5000449723354751
+        Population: ['computing_machine are a really utilitarian twist_around to exist profligate reliable, dependable without computation intervention', 'estimator warpaint AN authentically futile twist to shoot flying unquestionable calculation deliberation workout', 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian twist to realism fast reliable, reliable computation calculation intervention', "calculator found A genuinely useful wriggle to cook miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality stiff reliable computing figure human intercession', 'computing_device are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to score firm reliable, honest good trade_good intervention', 'data_processor comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A really useful twist to realism firm true calculation without human', 'information_processing_system makeup a very useful twist to make fast reliable, computations without human intervention', 'figure comprise A very useful doodad to induce fast reliable, computations calculation human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention', 'form is a really useful device to reach fast reliable, computations reckoning workout intervention', 'Computers lifespan a very useful widget to pretend libertine reliable, honest without human intervention', 'Computers is A really useful device to puddle fast reliable, honest without human intervention', 'suppose be a very unavailing whatsit to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute A really ineffectual device to defecate dissolute reliable, computations computation figuring calculate', 'aim makeup A very useful gizmo to deposit loyal dependable true without computation intervention', 'figure lifespan A very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a very utilitarian worm to represent truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest computing intervention', 'data_processor are A sincerely futile gimmick to rush tight reliable, computations computation human intervention', 'reckoned constitute a really futile twist to ca-ca riotous reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations reckoning computation intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A truly useful Crick to train fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'computer is A genuinely futile whatsit to rush tight reliable, computations without human man', 'computer surveys a very useful gimmick to shuffle close dependable computations computing computation compute', 'computing_machine be An actually utilitarian device to make turbulent reliable, computations calculation human intervention', 'Computers makeup A really useful twist_around to piss quick authentic without calculation intervention', 'guess appoint A genuinely bootless gimmick to make excessive honest reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human humanity', 'depend is an actually utilitarian device to create fast, reliable, reliable without authentic intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true without reliable intervention', 'depend is a very futile wrestle to make fast, dependable true human intervention', 'computing_machine Be a genuinely utilitarian spin to constitute fast, reliable, honest true truthful', 'computer represents A really sleeveless twist to shoot dissipated reliable, authentic intervention', 'Computers peer an existent utilitarian whatchamacallum to take pervert reliable, dependable steady-going human intervention', 'Computers appoint A genuinely utilitarian twist to comprise fast reliable, dependable reliable honest', "computing_machine cost A very utilitarian twist to puddle fast calm computations' computation", 'Computers is a very useful device to score firm reliable, reliable without authentic intervention', 'Computers follow a very futile device to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, true without authentic intervention', 'figure makeup a very utilitarian device to bitty fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbin to clear dissolute honest authentic without human treatment', 'information_processing_system represent A very useful doodad to induce fast reliable, honest true dependable intervention', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease", 'computing_machine are amp very utilitarian turn_of_events to hire fast, reliable, reliable without dependable intervention', 'information_processing_system is A genuinely sleeveless nubbins to take_in dissolute honest authentic without human intervention', 'figure is a really unavailing whatsit to piss tight honest computations without computation intercession', 'computer represents a really useful gimmick to pee quick reliable, computations without human human_being', 'hypothesize is a very futile device to score fast honorable computations without calculation intervention', 'figure is A really useful device to puddle fast reliable, honest without human', 'pattern warpaint A truly useful bend to stool exuberant honest view without human intervention', 'Computers live a really utilitarian gimmick to micturate firm reliable, dependable figuring estimate fancy', 'Computers be a really utilitarian twist to menu riotous true authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'say be a very useful twist to pull_in firm reliable, dependable without good honest', 'information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention', 'reckoned are A very useful twist to reality flying reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to pee quick dependable computations honest reliable imagine', 'depend follow A very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer cost AN actually utilitarian thingumabob to make firm true figuring without human interference', 'figure be an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator defends A very utilitarian gizmo to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to institute loyal fair without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations computing human intervention', 'reckoned follows A genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine warpaint A very useful thingummy to make libertine reliable, computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a very utilitarian gizmo to stimulate laden truthful compute figure human intervention']
+
+Recombining for Generation: 50
+Mutating for Generation: 50
+Chosen Word: cook | Part-of-Speech: VERB
+Trying Replacement Word: fudge | Part-of-Speech: VERB
+calculator found A genuinely useful wriggle to fudge miserly authentic computations' calculation intervention
+Chosen Word: stiff | Part-of-Speech: ADJ
+Trying Replacement Word: besotted | Part-of-Speech: VERB
+Trying Replacement Word: soaked | Part-of-Speech: VERB
+Trying Replacement Word: soaked | Part-of-Speech: VERB
+Trying Replacement Word: unbendable | Part-of-Speech: ADJ
+digit warpaint A very utilitarian twist to reality unbendable reliable computing figure human intercession
+computing_device are a really utilitarian gimmick to take fast, reliable, computations without computing intervention
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+information_processing_system follow a very utilitarian device to score firm reliable, honest good trade_good intervention
+Computers personify A really useful twist to realism firm true calculation without human
+Chosen Word: human | Part-of-Speech: ADJ
+Trying Replacement Word: human | Part-of-Speech: ADJ
+information_processing_system makeup a very useful twist to make fast reliable, computations without human human
+Chosen Word: induce | Part-of-Speech: VERB
+Trying Replacement Word: hasten | Part-of-Speech: VERB
+figure comprise A very useful doodad to hasten fast reliable, computations calculation human intervention
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+form is a really useful device to reach fast honest computations reckoning workout intervention
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: honest | Part-of-Speech: ADJ
+Computers lifespan a very useful widget to pretend libertine reliable, honest reliable human intervention
+Chosen Word: puddle | Part-of-Speech: VERB
+Trying Replacement Word: pee | Part-of-Speech: VERB
+Computers is A really useful device to pee fast reliable, honest without human intervention
+suppose be a very unavailing whatsit to gain fast, reliable, reliable without honest intervention
+information_processing_system are a very utilitarian worm to represent truehearted reliable, true without human intervention
+estimator warpaint A very utilitarian device to manufacturing quick reliable, honest computing intervention
+Chosen Word: really | Part-of-Speech: ADV
+Trying Replacement Word: truly | Part-of-Speech: ADV
+reckoned constitute a truly futile twist to ca-ca riotous reliable, honest without human human_being
+Chosen Word: reckoning | Part-of-Speech: VERB
+Trying Replacement Word: reckoning | Part-of-Speech: VERB
+data_processor be a really bootless device to pull_in firm reliable, computations reckoning bet intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: vitamin_A | Part-of-Speech: VERB
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: VERB
+Trying Replacement Word: vitamin_A | Part-of-Speech: VERB
+Trying Replacement Word: adenine | Part-of-Speech: VERB
+Trying Replacement Word: ampere | Part-of-Speech: ADV
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+Trying Replacement Word: adenine | Part-of-Speech: VERB
+Trying Replacement Word: deoxyadenosine_monophosphate | Part-of-Speech: VERB
+Trying Replacement Word: group_A | Part-of-Speech: VERB
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: angstrom_unit | Part-of-Speech: VERB
+computer surveys angstrom_unit very useful gimmick to shuffle close dependable computations computing computation compute
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: authentic | Part-of-Speech: ADJ
+computing_machine be An actually utilitarian device to make turbulent authentic computations calculation human intervention
+Chosen Word: honest | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+guess appoint A genuinely bootless gimmick to make excessive true reckoning without computation figure
+Chosen Word: humanity | Part-of-Speech: NOUN
+Trying Replacement Word: humankind | Part-of-Speech: NOUN
+reckoned is A real useful gimmick to clear_up riotous honest computations without human humankind
+depend is an actually utilitarian device to create fast, reliable, reliable without authentic intervention
+Chosen Word: true | Part-of-Speech: ADJ
+Trying Replacement Word: true | Part-of-Speech: ADJ
+computer is amp very utilitarian whatchamacallum to urinate flying reliable, true honest reliable intervention
+Chosen Word: make | Part-of-Speech: VERB
+Trying Replacement Word: produce | Part-of-Speech: VERB
+depend is a very futile wrestle to produce fast, dependable true human intervention
+Chosen Word: a | Part-of-Speech: DET
+Trying Replacement Word: amp | Part-of-Speech: ADJ
+Trying Replacement Word: angstrom | Part-of-Speech: ADJ
+Trying Replacement Word: amp | Part-of-Speech: ADJ
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: type_A | Part-of-Speech: ADJ
+Trying Replacement Word: a | Part-of-Speech: DET
+computing_machine Be a genuinely utilitarian spin to constitute fast, reliable, honest true truthful
+Chosen Word: sleeveless | Part-of-Speech: ADJ
+Trying Replacement Word: vain | Part-of-Speech: ADJ
+computer represents A really vain twist to shoot dissipated reliable, authentic intervention
+Computers peer an existent utilitarian whatchamacallum to take pervert reliable, dependable steady-going human intervention
+Chosen Word: A | Part-of-Speech: DET
+Trying Replacement Word: antiophthalmic_factor | Part-of-Speech: NOUN
+Trying Replacement Word: axerophthol | Part-of-Speech: VERB
+Trying Replacement Word: group_A | Part-of-Speech: NOUN
+Trying Replacement Word: axerophthol | Part-of-Speech: VERB
+Trying Replacement Word: a | Part-of-Speech: DET
+Computers appoint a genuinely utilitarian twist to comprise fast reliable, dependable reliable honest
+computing_machine cost A very utilitarian twist to puddle fast calm computations' computation
+Chosen Word: device | Part-of-Speech: NOUN
+Trying Replacement Word: twist | Part-of-Speech: NOUN
+Computers follow a very futile twist to fill put_down true computations without reckoning intercession
+Chosen Word: dissolute | Part-of-Speech: VERB
+Trying Replacement Word: debauched | Part-of-Speech: VERB
+reckoned represent adenine very futile nubbin to clear debauched honest authentic without human treatment
+Chosen Word: dependable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+information_processing_system represent A very useful doodad to induce fast reliable, honest true dependable steady-going
+Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease
+computing_machine are amp very utilitarian turn_of_events to hire fast, reliable, reliable without dependable intervention
+Chosen Word: computer | Part-of-Speech: NOUN
+Trying Replacement Word: estimator | Part-of-Speech: NOUN
+estimator represents a really useful gimmick to pee quick reliable, computations without human human_being
+pattern warpaint A truly useful bend to stool exuberant honest view without human intervention
+information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention
+Chosen Word: good | Part-of-Speech: ADJ
+Trying Replacement Word: good | Part-of-Speech: ADJ
+say be a very useful twist to pull_in firm reliable, dependable without good ripe
+Chosen Word: interference | Part-of-Speech: NOUN
+Trying Replacement Word: intervention | Part-of-Speech: NOUN
+computer cost AN actually utilitarian thingumabob to make firm true figuring without human intervention
+Chosen Word: figure | Part-of-Speech: NOUN
+Trying Replacement Word: soma | Part-of-Speech: NOUN
+soma be an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention
+calculator defends A very utilitarian gizmo to fare tight average computing without veritable intervention
+Chosen Word: useful | Part-of-Speech: ADJ
+Trying Replacement Word: useful | Part-of-Speech: ADJ
+calculator represents a very useful appliance to institute loyal fair without human treatment
+Chosen Word: human | Part-of-Speech: ADJ
+Trying Replacement Word: human | Part-of-Speech: ADJ
+reckoned are a very useful twist to reality fast reliable, computations computing human human
+Chosen Word: reliable | Part-of-Speech: ADJ
+Trying Replacement Word: dependable | Part-of-Speech: ADJ
+imagine warpaint A very useful thingummy to make libertine dependable computations without human
+Computers equal a very useful device to pull_in solid reliable, computations without computation
+Chosen Word: genuinely | Part-of-Speech: ADV
+Trying Replacement Word: genuinely | Part-of-Speech: ADV
+computer embodies a genuinely sleeveless gizmo to stimulate laden truthful compute figure human intervention
+Selection for Generation: 50
+Running Objective Function on Population: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+Completed Objective Function Calculations
+38 14
+
+        Generation: 50
+        Best: 0.6232134625373877 | computer represents A really vain twist to shoot dissipated reliable, authentic intervention
+        Worst: 0.3749859436304003 | Computers lifespan a very useful widget to pretend libertine reliable, honest reliable human intervention
+        Mean: 0.5013027778655333
+        Population: ['computing_machine are a really utilitarian twist_around to exist profligate reliable, dependable without computation intervention', 'estimator warpaint AN authentically futile twist to shoot flying unquestionable calculation deliberation workout', 'information_processing_system is a very utilitarian plait to brawl tight bona_fide computations without computation computing', 'Computers is amp very utilitarian twist to realism fast reliable, reliable computation calculation intervention', "calculator found A genuinely useful wriggle to fudge miserly authentic computations' calculation intervention", 'digit warpaint A very utilitarian twist to reality unbend able reliable computing figure human intercession', 'computing_device are a really utilitarian gimmick to take fast, reliable, computations without computing intervention', 'information_processing_system follow a very utilitarian device to score firm reliable, honest good trade_good intervention', 'data_processor comprise A very useful doodad to induce fast reliable, honest true genuine', 'Computers personify A really useful twist to realism firm true calculation without human', 'information_processing_system makeup a very useful twist to make fast reliable, computations without human', 'figure comprise A very useful doodad to hasten fast reliable, computations calculation human intervention', 'figure is angstrom very utilitarian gimmick to represent profligate dependable authentic without see intervention', 'form is a really useful device to reach fast honest computations reckoning workout intervention', 'Computers lifespan a very useful widget to pretend libertine reliable, honest reliable human intervention', 'Computers is A really useful device to pee fast reliable, honest without human intervention', 'suppose be a very unavailing whatsit to gain fast, reliable, reliable without honest intervention', 'information_processing_system constitute A really ineffectual device to defecate dissolute reliable, computations computation figuring calculate', 'aim makeup A very useful gizmo to deposit loyal dependable true without computation intervention', 'figure lifespan A very useful thingamajig to pretend fast, reliable, honest without human intervention', 'information_processing_system are a very utilitarian worm to represent truehearted reliable, true without human intervention', 'estimator warpaint A very utilitarian device to manufacturing quick reliable, honest computing intervention', 'data_processor are A sincerely futile gimmick to rush tight reliable, computations computation human intervention', 'reckoned constitute a truly futile twist to ca-ca riotous reliable, honest without human human_being', 'data_processor be a really bootless device to pull_in firm reliable, computations reckoning bet intervention', 'computer exists A genuinely utilitarian gimmick to make fast, reliable, computations without human intervention', 'computer part A truly useful Crick to train fast, reliable, dependable without good intervention', 'figure play_along a truly useful thingummy to pretend fast, reliable, true without dead_on_target intervention', 'computer is A genuinely futile whatsit to rush tight reliable, computations without human man', 'computer surveys angstrom_unit very useful gimmick to shuffle close dependable computations computing computation compute', "computing_machine be An actually utilitarian device to make turbulent authentic computations' calculation human intervention", 'Computers makeup A really useful twist_around to piss quick authentic without calculation intervention', 'guess appoint A genuinely bootless gimmick to make excessive true reckoning without computation figure', 'reckoned is A real useful gimmick to clear_up riotous honest computations without human humankind', 'depend is an actually utilitarian device to create fast, reliable, reliable without authentic intervention', 'computer is amp very utilitarian whatchamacallum to urinate flying reliable, true honest reliable intervention', 'depend is a very futile wrestle to produce fast, dependable true human intervention', 'computing_machine Be a genuinely utilitarian spin to constitute fast, reliable, honest true truthful', 'computer represents A really vain twist to shoot dissipated reliable, authentic intervention', 'Computers peer an existent utilitarian whatchamacallum to take pervert reliable, dependable steady-going human intervention', 'Computers appoint a genuinely utilitarian twist to comprise fast reliable, dependable reliable honest', "computing_machine cost A very utilitarian twist to puddle fast calm computations' computation", 'Computers is a very useful device to score firm reliable, reliable without authentic intervention', 'Computers follow a very futile twist to fill put_down true computations without reckoning intercession', 'calculator exists a really futile device to pull_in firm reliable, computations without figuring intervention', 'computing_machine be a really useful twist to take fast, reliable, true without authentic intervention', 'figure makeup a very utilitarian device to bitty fast dependable computations true computation intervention', 'reckoned represent adenine very futile nubbin to clear debauched honest authentic without human treatment', 'information_processing_system represent A very useful doodad to induce fast reliable, honest true dependable steady-going', "Computers makeup A very fruitless twist to defecate manipulate regular computations' choke decease", 'computing_machine are amp very utilitarian turn_of_events to hire fast, reliable, reliable without dependable intervention', 'information_processing_system is A genuinely sleeveless nubbins to take_in dissolute honest authentic without human intervention', 'figure is a really unavailing whatsit to piss tight dependable computations computing computation intercession', 'estimator represents a really useful gimmick to pee quick reliable, computations without human human_being', 'hypothesize is a very futile device to score fast honorable computations without calculation intervention', 'figure is A really useful device to puddle fast reliable, honest without human', 'pattern warpaint A truly useful bend to stool exuberant honest view without human intervention', 'Computers live a really utilitarian gimmick to micturate firm reliable, dependable figuring estimate fancy', 'Computers be a really utilitarian twist to menu riotous true authentic without computation intervention', 'information_processing_system follow a really useful twist to pull_in firm reliable, computations without reliable intervention', 'say be a very useful twist to pull_in firm reliable, dependable without good ripe', 'information_processing_system survive adenine really sleeveless catch to realism quick true authentic reliable intervention', 'reckoned are A very useful twist to reality flying reliable, computations computation reckoning calculation', 'information_processing_system live A really utilitarian device to hold loyal reliable, computations authentic bona_fide veritable', 'computing_device be A very useful device to pee quick dependable computations honest reliable imagine', 'depend follow A very futile gimmick to fix exuberant honest reckoning without figuring intervention', 'computer cost AN actually utilitarian thingumabob to make firm true figuring without human intervention', 'coma is an existent utilitarian whatchamacallum to take degenerate reliable, dependable steady-going human intervention', 'calculator defends A very utilitarian gizmo to fare tight average computing without veritable intervention', 'calculator represents a very useful appliance to institute loyal fair without human treatment', 'reckoned are a very useful twist to reality fast reliable, computations computing human', 'reckoned follows A genuinely useful gizmo to make_believe stiff true calculation human intervention', 'imagine warpaint A very useful thingummy to make libertine dependable computations without human', 'Computers equal a very useful device to pull_in solid reliable, computations without computation', 'computer embodies a genuinely sleeveless gizmo to stimulate laden truthful compute figure human intervention']
