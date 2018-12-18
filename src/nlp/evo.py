@@ -7,7 +7,7 @@ from evo_selection import selection, elitism_selection, fitness_proportional_sel
 
 
 def evolve(original_text: str, n: int = 25, max_generations: int = 35):
-    nlp = spacy.load('en_core_web_sm')
+    nlp = spacy.load('en_core_web_lg')
 
     def f_objective(member):
         return objective(nlp, member, original_text)
