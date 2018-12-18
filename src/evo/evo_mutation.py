@@ -15,15 +15,15 @@ def mutate(population_df, mutate_func, objective_func, nlp, mutation_rate=0.5):
     def m(member):
         if rand.uniform(0, 1) <= mutation_rate:
             text_mut = mutate_func(member['text'], nlp)
-            fitness_mut = objective_func(text_mut, nlp)
+            fitness_mut = objective_func(text_mut)
             if fitness_mut > member['fitness']:
                 member['text'] = text_mut
                 member['fitness'] = fitness_mut
         return member
 
-    population_df = population_df.apply(m)
+    return population_df.apply(m, axis=1)
 
-def mutate_verb(nlp, member: str):
+def mutate_verb(member: str, nlp):
     doc = nlp(member)
     verbs = []
     for idx in range(1, len(doc)):
@@ -31,7 +31,7 @@ def mutate_verb(nlp, member: str):
             verbs.append((doc[idx].text, idx))
     
     
-def mutate_token_synonym(nlp, member: str):
+def mutate_token_synonym(member, nlp):
 
     # Pick a random word
     words = member.split(' ')
@@ -49,16 +49,16 @@ def mutate_token_synonym(nlp, member: str):
         pos = None
         trials = 0
         max_trials = 15
-        print(f'Chosen Word: {rand_token.text} | Part-of-Speech: {rand_token.pos_}')
+        # print(f'Chosen Word: {rand_token.text} | Part-of-Speech: {rand_token.pos_}')
         while trials < max_trials and pos != rand_token.pos_:
             words[locus] = synonyms[rand.randrange(0, len(synonyms))]
             member = ' '.join(words)
             # member = ' '.join(token.text_with_ws for token in doc)
             doc = nlp(member)
             pos = doc[locus].pos_
-            print(f'Trying Replacement Word: {doc[locus].text} | Part-of-Speech: {doc[locus].pos_}')
+            # print(f'Trying Replacement Word: {doc[locus].text} | Part-of-Speech: {doc[locus].pos_}')
             trials += 1
-    print(member)
+    # print(member)
 
     # Grammar Fixer
     tool = language_check.LanguageTool('en-US')
@@ -71,7 +71,7 @@ def mutate_token_synonym(nlp, member: str):
     return member
 
 
-def mutate_synonym(nlp, member: str):
+def mutate_synonym(member: str, nlp):
     # nltk.download('wordnet')
     words = member.split(' ')
 

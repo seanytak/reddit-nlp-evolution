@@ -12,16 +12,19 @@ def evolve(original_text: str,
            population_size: int = 25,
            max_generation: int = 35) -> pd.DataFrame:
 
+    # Construct Objective Function
+    nlp = spacy.load('en_core_web_sm')
+    def evo_objective(row):
+        return objective(row, original_text, nlp)
+
     # Initialize Population
     population_df = pd.DataFrame({
         'text': [original_text] * population_size
     })
-    results_df = pd.DataFrame(columns=['generation', 'best', 'worst', 'mean', 'best_text', 'worst_text'])
+    population_df['fitness'] = population_df['text'].apply(evo_objective)
 
-    nlp = spacy.load('en_core_web_lg')
-    def obj(population_df):
-        objective_func = np.vectorize(objective)
-        return objective_func(population_df, original_text, nlp)
+    # Construct Results DataFrame
+    results_df = pd.DataFrame(columns=['generation', 'best', 'worst', 'mean', 'best_text', 'worst_text'])
 
     generation = 0
     max_fitness_generation = 100
@@ -31,34 +34,36 @@ def evolve(original_text: str,
         generation += 1
 
         print(f'Recombining for Generation: {generation}')
-        population_df = recombine(population_df, recombine_words, obj, nlp)
+        # population_df = recombine(population_df, recombine_words, evo_objective, nlp)
 
         print(f'Mutating for Generation: {generation}')
-        population_df = mutate(population_df, mutate_token_synonym, obj, nlp)
+        population_df = mutate(population_df, mutate_token_synonym, evo_objective, nlp)
+        # print(population_df)
 
         print(f'Selection for Generation: {generation}')
-        population_df = selection(population_df, elitism_selection, obj)
+        population_df = selection(population_df, elitism_selection)
+        # print(population_df)
 
-        df = pd.DataFrame({
+        new_generation = {
             'generation': generation,
             'best': population_df['fitness'].max(),
             'mean': population_df['fitness'].mean(),
             'worst': population_df['fitness'].min(),
             'best_text': population_df.loc[population_df['fitness'].idxmax(), 'text'],
             'worst_text': population_df.loc[population_df['fitness'].idxmin(), 'text'],
-        })
+        }
 
-        results_df.append(df)
+        results_df.append(pd.DataFrame(new_generation, index=[0]))
 
-        if curr_max_fitness < df['best']:
+        if curr_max_fitness < new_generation['best']:
             max_fitness_generation = generation if generation > 100 else 100
-            curr_max_fitness = df['best']
+            curr_max_fitness = new_generation['best']
 
         print(f'''
-        Generation: {df['Generation']}\t
-        best: {df['best']} | {df['best_text']}\t
-        worst: {df['worst']} | {df['worst_text']}\t
-        mean: {df['mean']}\t
+        Generation: {new_generation['generation']}\t
+        Best: {new_generation['best']} | {new_generation['best_text']}\t
+        Worst: {new_generation['worst']} | {new_generation['worst_text']}\t
+        Mean: {new_generation['mean']}\t
         ''')
 
     return results_df

@@ -18,11 +18,11 @@ from evo import evolve
 def main(text: str, population_size: int, generations: int, max_generations: int, debug: bool):
     """CLI tool to invoke an NLP processor to syntactically modify a sentence while keeping it semantically intact.
     Converges to a solution using evolutionary algorithm approach."""
-    best, worst, mean = evolve(text, population_size, max_generations)
-    x = np.arange(0, len(best))
-    plt.scatter(x, y=np.array(best), label='Best')
-    plt.scatter(x, y=np.array(worst), label='Worst')
-    plt.scatter(x, y=np.array(mean), label='Mean')
+    results_df = evolve(text, population_size, max_generations)
+    x = np.arange(0, len(results_df))
+    plt.scatter(x, y=results_df['best'], label='Best')
+    plt.scatter(x, y=results_df['worst'], label='Worst')
+    plt.scatter(x, y=results_df['mean'], label='Mean')
     plt.xlabel('Generations')
     plt.ylabel('Fitness')
     plt.title('Best, Mean, and Worst Fitness of the Population at each Generation')
