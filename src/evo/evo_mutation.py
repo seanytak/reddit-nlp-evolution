@@ -8,18 +8,20 @@ import numpy as np
 import pandas as pd
 
 
-def mutate(nlp, population, mutate_func, objective_func, mutation_rate=0.5):
+def mutate(population_df, mutate_func, objective_func, nlp, mutation_rate=0.5):
     """Mutates a member of the population using mutate_func with probability mutation_rate 
     """
-    population_mut = []
-    for member in population:
-        offspring = member
+
+    def m(member):
         if rand.uniform(0, 1) <= mutation_rate:
-            offspring = mutate_func(nlp, member)
-            if objective_func(offspring) < objective_func(member):
-                offspring = member
-        population_mut.append(offspring)
-    return population_mut
+            text_mut = mutate_func(member['text'], nlp)
+            fitness_mut = objective_func(text_mut, nlp)
+            if fitness_mut > member['fitness']:
+                member['text'] = text_mut
+                member['fitness'] = fitness_mut
+        return member
+
+    population_df = population_df.apply(m)
 
 def mutate_verb(nlp, member: str):
     doc = nlp(member)

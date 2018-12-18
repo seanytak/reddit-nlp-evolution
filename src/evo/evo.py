@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import spacy
 
@@ -18,9 +19,9 @@ def evolve(original_text: str,
     results_df = pd.DataFrame(columns=['generation', 'best', 'worst', 'mean', 'best_text', 'worst_text'])
 
     nlp = spacy.load('en_core_web_lg')
-
-    def obj(member):
-        return objective(nlp, member, original_text)
+    def obj(population_df):
+        objective_func = np.vectorize(objective)
+        return objective_func(population_df, original_text, nlp)
 
     generation = 0
     max_fitness_generation = 100

@@ -1,6 +1,6 @@
 import spacy
 
-def objective(nlp, member: str, original_text: str, x=2, y=2/3, alpha=1, beta=1):
+def objective(member: str, original_text: str, nlp, x=2, y=2/3, alpha=1, beta=1):
     """
     """
     # nlp = spacy.load('en_core_web_sm')
